@@ -1,0 +1,6440 @@
+drug,target
+Butorphanol,P35372
+Butorphanol,P41145
+Butorphanol,P41143
+Entacapone,P21964
+Icosapent,Q8NER1
+Icosapent,O95573
+Icosapent,P23219
+Icosapent,P32418
+Icosapent,O60427
+Icosapent,P37231
+Icosapent,O60488
+Icosapent,O14842
+Icosapent,P35354
+Icosapent,Q03181
+Mephentermine,P08913
+Mephentermine,P13945
+Mephentermine,P08588
+Mephentermine,P18089
+Mephentermine,P25100
+Mephentermine,P35368
+Mephentermine,P35348
+Mephentermine,P07550
+Mephentermine,P18825
+Fosinopril,P12821
+Chlorphenamine,P35367
+Chlorphenamine,P31645
+Chlorphenamine,Q01959
+Chlorphenamine,P23975
+Sodium stibogluconate,P11387
+Tazarotene,P13631
+Tazarotene,P10826
+Tazarotene,P10276
+Tazarotene,P28702
+Fleroxacin,P43700
+Fleroxacin,P43702
+Fleroxacin,P11388
+Fospropofol,P47870
+Fospropofol,P28472
+Ribostamycin,P0A5N0
+Ribostamycin,P07237
+Ribostamycin,P0A7S3
+Ribostamycin,Q9R381
+Ephedra,P08913
+Ephedra,P21397
+Ephedra,P13945
+Ephedra,P08588
+Ephedra,P18089
+Ephedra,P31645
+Ephedra,P27338
+Ephedra,P07550
+Ephedra,Q01959
+Ephedra,Q05940
+Ephedra,P54219
+Ephedra,P18825
+Ephedra,P23975
+Progabide,P14867
+Progabide,Q9UBS5
+Vemurafenib,P15056
+Homatropine Methylbromide,P20309
+Homatropine Methylbromide,P08173
+Homatropine Methylbromide,P08912
+Homatropine Methylbromide,P11229
+Homatropine Methylbromide,P08172
+Cefmetazole,P0AEB2
+Cefmetazole,P02919
+Cefmetazole,P0AD68
+Cefmetazole,C1KC03
+Cefmetazole,P08506
+Cefmetazole,P02918
+Pheniramine,P35367
+Pitavastatin,P04035
+Decitabine,P26358
+Diphenoxylate,P35372
+Diphenoxylate,P41143
+Pyridoxal,O00764
+Trimethaphan,Q9GZZ6
+Nitric Oxide,P33402
+Biperiden,P11229
+Biperiden,Q15822
+Vortioxetine,P08588
+Vortioxetine,P31645
+Vortioxetine,P08908
+Vortioxetine,P46098
+Vortioxetine,P28222
+Vortioxetine,P34969
+Rifapentine,P0A674
+L-Alanine,P43007
+L-Alanine,Q16719
+L-Alanine,P21549
+L-Alanine,Q5JTZ9
+L-Alanine,Q8IUZ5
+L-Alanine,P80404
+L-Alanine,P24298
+L-Alanine,Q9Y697
+L-Alanine,Q9UHI5
+L-Alanine,Q8TD30
+L-Alanine,P49588
+L-Alanine,Q9BYV1
+L-Alanine,Q7Z2H8
+Diethylstilbestrol,Q92731
+Diethylstilbestrol,P62508
+Diethylstilbestrol,P03372
+Proguanil,P13922
+Proguanil,P00374
+Lactulose,P06864
+Menadione,Q9BQB6
+Menadione,P16083
+Menadione,P02818
+Menadione,P22891
+Menadione,P00742
+Menadione,P00734
+Menadione,P04070
+Menadione,P08709
+Menadione,P38435
+Menadione,P15559
+Menadione,Q8N0U8
+Menadione,P07225
+Menadione,P00740
+Phenylephrine,P25100
+Phenylephrine,P35368
+Phenylephrine,P35348
+Rivaroxaban,P00742
+Bromodiphenhydramine,P35367
+Zanamivir,P27907
+Zanamivir,Q9Y3R4
+Zanamivir,P06818
+Pomalidomide,P01375
+Pomalidomide,P35354
+Pomalidomide,Q96SW2
+Rimantadine,P21430
+Decamethonium,P22303
+Decamethonium,Q15822
+Aminolevulinic acid,P13716
+Glyburide,P48048
+Glyburide,P13569
+Glyburide,P50416
+Glyburide,P48544
+Glyburide,O60706
+Glyburide,O95342
+Glyburide,Q14654
+Glyburide,Q09428
+Glyburide,O95477
+Glyburide,Q15842
+Brinzolamide,P00915
+Brinzolamide,P00918
+Brinzolamide,P35218
+Brinzolamide,P22748
+Carbidopa,P20711
+Enprofylline,P29274
+Enprofylline,P0DMS8
+Enprofylline,P27815
+Enprofylline,P30542
+Enprofylline,P29275
+Enprofylline,Q07343
+Propafenone,Q12809
+Propafenone,Q14524
+Norgestimate,P06401
+Norgestimate,P03372
+Urea C-14,Q8KT33
+Cyclobenzaprine,P28223
+Ampicillin,Q7CRA4
+Ampicillin,Q75Y35
+Ampicillin,Q8DR59
+Ampicillin,Q02763
+Ampicillin,Q16348
+Ampicillin,P0A3M6
+Ampicillin,Q8DNB6
+Ampicillin,P46059
+Alvimopan,P35372
+Alvimopan,P41145
+Alvimopan,P41143
+Isothipendyl,P35367
+Cinitapride,Q13639
+Cinitapride,P28223
+Cinitapride,P08908
+Celiprolol,P08588
+Celiprolol,P07550
+Raltegravir,Q7ZJM1
+Lisinopril,Q9BYF1
+Lisinopril,P12821
+Neomycin,P0A7S3
+Tolterodine,P20309
+Tolterodine,P08173
+Tolterodine,P08912
+Tolterodine,P11229
+Tolterodine,P08172
+Benzylpenicilloyl Polylysine,P12319
+Benzylpenicilloyl Polylysine,P30273
+Crofelemer,P13569
+Crofelemer,Q5XXA6
+Nimesulide,Q9NZK7
+Nimesulide,P35354
+Nimesulide,P02788
+Ceftibuten,P02919
+Ceftibuten,P0AD68
+Ceftibuten,P0AD65
+Ceftibuten,P02918
+Timolol,P00720
+Timolol,P08588
+Timolol,P07550
+Nitroglycerin,P16066
+Anisotropine Methylbromide,P20309
+Anisotropine Methylbromide,P11229
+Anisotropine Methylbromide,P08172
+Simeprevir,Q91RS4
+Fesoterodine,P20309
+Fesoterodine,P08173
+Fesoterodine,P08912
+Fesoterodine,P11229
+Fesoterodine,P08172
+Nitroxoline,P50579
+Sertraline,P31645
+Sertraline,Q01959
+Cladribine,Q07864
+Cladribine,P56282
+Cladribine,Q9NR33
+Cladribine,P09884
+Cladribine,Q9NRF9
+Cladribine,Q7LG56
+Cladribine,P23921
+Cladribine,P31350
+Cladribine,P00491
+Pralidoxime,P06276
+Pralidoxime,P22303
+Ethanol,P47869
+Ethanol,P48549
+Ethanol,P19320
+Ethanol,P78334
+Ethanol,Q8WXA8
+Ethanol,Q05901
+Ethanol,P23415
+Ethanol,P36544
+Ethanol,Q8TCU5
+Ethanol,Q13698
+Ethanol,Q70Z44
+Ethanol,P18505
+Ethanol,P43681
+Ethanol,P14867
+Ethanol,P48058
+Ethanol,P42261
+Ethanol,O00591
+Ethanol,P47870
+Ethanol,P48544
+Ethanol,P46098
+Ethanol,Q06432
+Ethanol,Q14542
+Ethanol,P42262
+Ethanol,P23416
+Ethanol,A5X5Y0
+Ethanol,Q9UGM1
+Ethanol,O14764
+Ethanol,Q8N1C3
+Ethanol,P31644
+Ethanol,P34903
+Ethanol,Q92806
+Ethanol,P28472
+Ethanol,Q9GZZ6
+Ethanol,P30926
+Ethanol,P30532
+Ethanol,Q99928
+Ethanol,Q01668
+Ethanol,Q99808
+Ethanol,P48169
+Ethanol,Q15825
+Ethanol,O95264
+Ethanol,Q02641
+Ethanol,Q16445
+Ethanol,Q13936
+Ethanol,Q15822
+Ethanol,Q9Y698
+Ethanol,P48051
+Ethanol,Q9UN88
+Ethanol,P42263
+Ethanol,P32297
+Ethanol,P17787
+Sulpiride,P14416
+Sulpiride,P35462
+Exemestane,P11511
+Cytisine,P36544
+Cytisine,P43681
+Cytisine,Q15825
+Cytisine,P32297
+Pentamidine,O14717
+Lincomycin,P0A7J6
+Lopinavir,Q72874
+Mitoxantrone,P11388
+Ketorolac,P23219
+Ketorolac,P35354
+Tolnaftate,Q92206
+Iloperidone,P21917
+Iloperidone,P35367
+Iloperidone,P14416
+Iloperidone,P28223
+Iloperidone,P08908
+Iloperidone,P21728
+Iloperidone,P35348
+Iloperidone,P34969
+Iloperidone,P35462
+Iloperidone,P18825
+Iloperidone,P50406
+Sparfloxacin,P43700
+Sparfloxacin,P43702
+Sparfloxacin,P11388
+Nandrolone phenpropionate,P10275
+Permethrin,P35498
+Dronedarone,O00305
+Dronedarone,P08913
+Dronedarone,Q12809
+Dronedarone,Q13698
+Dronedarone,P08588
+Dronedarone,P18089
+Dronedarone,P25100
+Dronedarone,Q08289
+Dronedarone,P35368
+Dronedarone,P35348
+Dronedarone,P35498
+Dronedarone,O60840
+Dronedarone,O95069
+Dronedarone,Q01668
+Dronedarone,Q02641
+Dronedarone,Q13936
+Dronedarone,P18825
+Dronedarone,P54284
+Cortisone acetate,P04150
+Misoprostol,P35408
+Misoprostol,P43115
+Misoprostol,P43116
+Prucalopride,Q13639
+Darunavir,Q72874
+Salicylic acid,P23219
+Salicylic acid,Q04828
+Salicylic acid,P35354
+Dexbrompheniramine,P35367
+Ethambutol,P0A560
+Ethambutol,P72059
+Ethambutol,P72030
+Dihomo-gamma-linolenic acid,P23219
+Dihomo-gamma-linolenic acid,P35354
+Digoxin,P05023
+Dextromethorphan,P36544
+Dextromethorphan,Q8TCU5
+Dextromethorphan,Q5T1J1
+Dextromethorphan,P43681
+Dextromethorphan,P14598
+Dextromethorphan,P35372
+Dextromethorphan,P31645
+Dextromethorphan,P41145
+Dextromethorphan,P15153
+Dextromethorphan,P13498
+Dextromethorphan,Q15080
+Dextromethorphan,P04839
+Dextromethorphan,P19878
+Dextromethorphan,P30926
+Dextromethorphan,Q99720
+Dextromethorphan,P63000
+Dextromethorphan,Q15822
+Dextromethorphan,O00264
+Dextromethorphan,P23975
+Dextromethorphan,P32297
+Dextromethorphan,P17787
+Dextromethorphan,P41143
+Albendazole,P68371
+Albendazole,F1L7U3
+Albendazole,Q71U36
+Albendazole,P83223
+Daunorubicin,Q02880
+Daunorubicin,P11388
+Nadroparin,P01100
+Nadroparin,P16109
+Nadroparin,P01008
+Nadroparin,P01106
+Oxycodone,P02763
+Oxycodone,P35372
+Oxycodone,P41145
+Oxycodone,P19652
+Oxycodone,P41143
+Moricizine,Q14524
+Lumiracoxib,P23219
+Lumiracoxib,P35354
+Trifluoperazine,P26447
+Trifluoperazine,P14416
+Trifluoperazine,P63316
+Trifluoperazine,P35348
+Trifluoperazine,P62158
+Trifluoperazine,Q9NYX4
+Cabozantinib,P08581
+Cabozantinib,P35968
+Cabozantinib,P07949
+Astemizole,P35367
+Astemizole,Q12809
+Desogestrel,P06401
+Desogestrel,P03372
+Rizatriptan,P28221
+Rizatriptan,P28222
+Rizatriptan,P30939
+Trimipramine,P08909
+Trimipramine,P20309
+Trimipramine,P08913
+Trimipramine,P35367
+Trimipramine,P28221
+Trimipramine,P21918
+Trimipramine,P14416
+Trimipramine,P13945
+Trimipramine,P28223
+Trimipramine,P08588
+Trimipramine,P18089
+Trimipramine,P31645
+Trimipramine,P08173
+Trimipramine,P08908
+Trimipramine,P08912
+Trimipramine,P21728
+Trimipramine,P35368
+Trimipramine,P46098
+Trimipramine,P35348
+Trimipramine,P07550
+Trimipramine,Q01959
+Trimipramine,P11229
+Trimipramine,P28335
+Trimipramine,P23975
+Trimipramine,P08172
+Eszopiclone,P47869
+Eszopiclone,P78334
+Eszopiclone,P18505
+Eszopiclone,P14867
+Eszopiclone,O00591
+Eszopiclone,P47870
+Eszopiclone,P30536
+Eszopiclone,O14764
+Eszopiclone,Q8N1C3
+Eszopiclone,P31644
+Eszopiclone,P34903
+Eszopiclone,P28472
+Eszopiclone,Q99928
+Eszopiclone,P48169
+Eszopiclone,Q16445
+Eszopiclone,Q9UN88
+Eszopiclone,P18507
+Deoxycholic Acid,P07445
+Deoxycholic Acid,P31224
+Deoxycholic Acid,P25553
+Deoxycholic Acid,P54965
+Deoxycholic Acid,Q03736
+Deoxycholic Acid,P33517
+Deoxycholic Acid,Q8GGK7
+Deoxycholic Acid,Q7Z2Z2
+Vigabatrin,P80404
+Vigabatrin,Q9UBS5
+Methotrexate,P00374
+Candesartan,P30556
+Amiodarone,Q12809
+Amiodarone,P08588
+Amiodarone,O95180
+Amiodarone,Q9NY47
+Guanidine,P00720
+Guanidine,P53608
+Guanidine,P0A6E4
+Guanidine,P78352
+Guanidine,P05091
+Guanidine,Q14353
+Guanidine,P07998
+Mesalazine,P23219
+Mesalazine,P37231
+Mesalazine,P0A5L8
+Mesalazine,P05164
+Mesalazine,O14920
+Mesalazine,P35354
+Mesalazine,P09917
+Mesalazine,O15111
+Febuxostat,P47989
+Omeprazole,P20648
+Cisatracurium besylate,Q15822
+Flutamide,P10275
+Flutamide,P35869
+Vilanterol,P07550
+Olodaterol,P07550
+Benazepril,P12821
+Risperidone,P08913
+Risperidone,P21917
+Risperidone,P35367
+Risperidone,P28221
+Risperidone,P14416
+Risperidone,P28223
+Risperidone,P18089
+Risperidone,P08908
+Risperidone,P21728
+Risperidone,P35368
+Risperidone,P35348
+Risperidone,P35462
+Risperidone,P28335
+Risperidone,P18825
+Cilostazol,Q14432
+Ketotifen,P52209
+Ketotifen,P35367
+Ketotifen,Q13946
+Ketotifen,Q9NP56
+Ketotifen,Q08499
+Ketotifen,Q08493
+Ketotifen,P27815
+Ketotifen,O95263
+Ketotifen,Q07343
+Ketotifen,O60658
+Dexmethylphenidate,P31645
+Dexmethylphenidate,Q01959
+Dexmethylphenidate,P23975
+Bilastine,P35367
+Ramelteon,P48039
+Ramelteon,P49286
+Diphenylpyraline,P35367
+Diphenylpyraline,Q01959
+Captodiame,Q99720
+Captodiame,P35462
+Captodiame,P28335
+Sucralfate,P09038
+Sucralfate,P02671
+Sucralfate,P02679
+Sucralfate,P01133
+Sucralfate,P02675
+Warfarin,Q9BQB6
+Methdilazine,P35367
+Moexipril,Q9BYF1
+Moexipril,P12821
+Ximelagatran,P00734
+Pyrimethamine,P13922
+Pyrimethamine,P00374
+Ticlopidine,Q9H244
+Cyclopentolate,P11229
+Chlordiazepoxide,P47869
+Chlordiazepoxide,P78334
+Chlordiazepoxide,P18505
+Chlordiazepoxide,P14867
+Chlordiazepoxide,O00591
+Chlordiazepoxide,P47870
+Chlordiazepoxide,O14764
+Chlordiazepoxide,Q8N1C3
+Chlordiazepoxide,P31644
+Chlordiazepoxide,P34903
+Chlordiazepoxide,P28472
+Chlordiazepoxide,Q99928
+Chlordiazepoxide,P48169
+Chlordiazepoxide,Q16445
+Chlordiazepoxide,Q9UN88
+Chlordiazepoxide,P18507
+Thiabendazole,P00363
+Mianserin,P08913
+Mianserin,P35367
+Mianserin,P21918
+Mianserin,P14416
+Mianserin,P28223
+Mianserin,P18089
+Mianserin,P31645
+Mianserin,P41145
+Mianserin,P25100
+Mianserin,P08908
+Mianserin,P21728
+Mianserin,P35368
+Mianserin,P35348
+Mianserin,P30939
+Mianserin,Q01959
+Mianserin,P34969
+Mianserin,P35462
+Mianserin,P28335
+Mianserin,P41595
+Mianserin,P18825
+Mianserin,P23975
+Mianserin,P50406
+Mianserin,Q9H3N8
+Methylscopolamine bromide,P20309
+Methylscopolamine bromide,P11229
+Methylscopolamine bromide,P08172
+Butabarbital,P47869
+Butabarbital,P78334
+Butabarbital,P36544
+Butabarbital,P18505
+Butabarbital,P43681
+Butabarbital,P14867
+Butabarbital,O00591
+Butabarbital,P47870
+Butabarbital,P42262
+Butabarbital,Q13002
+Butabarbital,O14764
+Butabarbital,Q8N1C3
+Butabarbital,P31644
+Butabarbital,P34903
+Butabarbital,P28472
+Butabarbital,Q99928
+Butabarbital,P48169
+Butabarbital,Q16445
+Butabarbital,Q9UN88
+Butabarbital,P18507
+Testosterone,P10275
+Ginseng,P35869
+Ginseng,P35354
+Ginseng,P05231
+Corticorelin ovine triflutate,P34998
+Paramethadione,Q9P0X4
+Chloropyramine,P35367
+Dinoprostone,P35408
+Dinoprostone,P43115
+Dinoprostone,P34995
+Dinoprostone,P43116
+Procainamide,Q14524
+Procainamide,P26358
+Nitisinone,P32754
+Prasugrel,Q9H244
+Posaconazole,P10613
+Naproxen,P23219
+Naproxen,Q51911
+Naproxen,P35354
+Sibutramine,P31645
+Sibutramine,Q01959
+Sibutramine,P23975
+Mafenide,P23280
+Nilotinib,P00519
+Nilotinib,P10721
+Moclobemide,P21397
+Progesterone,P06401
+Progesterone,P05093
+Progesterone,P41145
+Progesterone,P08235
+Progesterone,P03372
+Carbamazepine,Q14524
+Pefloxacin,P43700
+Pefloxacin,P43702
+Pefloxacin,Q06AK7
+Pefloxacin,P11388
+Bisoprolol,P08588
+Bisoprolol,P07550
+Norelgestromin,P06401
+Paritaprevir,B0B3C9
+Oxiconazole,Q04782
+Oxiconazole,P10613
+Prednicarbate,P04150
+Troleandomycin,P49228
+Troleandomycin,P60723
+Anileridine,P35372
+Oxymorphone,P35372
+Oxymorphone,P41143
+Scopolamine,P20309
+Scopolamine,P08173
+Scopolamine,P08912
+Scopolamine,P14410
+Scopolamine,P11229
+Scopolamine,P08172
+Indomethacin,P23219
+Indomethacin,Q8N8N7
+Indomethacin,P37231
+Indomethacin,Q07869
+Indomethacin,P35354
+Indomethacin,Q9Y5Y4
+Indomethacin,Q04760
+Indomethacin,P14555
+Nitrendipine,P54289
+Nitrendipine,Q13698
+Nitrendipine,Q08289
+Nitrendipine,O95180
+Nitrendipine,Q06432
+Nitrendipine,Q01668
+Nitrendipine,Q9NY47
+Nitrendipine,Q13936
+Tramadol,P20309
+Tramadol,Q8TCU5
+Tramadol,P35372
+Tramadol,P31645
+Tramadol,P41145
+Tramadol,Q693P7
+Tramadol,P28335
+Tramadol,P23975
+Tramadol,P41143
+Mupirocin,P41972
+Phenazopyridine,P35498
+Proflavine,Q58L87
+Proflavine,P00734
+Proflavine,P0A0N4
+Lenalidomide,P35354
+Lenalidomide,P33151
+Lenalidomide,Q96SW2
+Lenalidomide,O14788
+Flurandrenolide,P04150
+Mecamylamine,Q15822
+Orlistat,P49327
+Orlistat,P16233
+Orlistat,P07098
+Imiquimod,Q9NYK1
+Imiquimod,Q9NR97
+Tazobactam,P62594
+Tazobactam,P0AD63
+Metaraminol,P35348
+Rivastigmine,P06276
+Rivastigmine,P22303
+Tranylcypromine,P21397
+Tranylcypromine,P27338
+Nadolol,P08588
+Nadolol,P07550
+Eluxadoline,P35372
+Eluxadoline,P41145
+Eluxadoline,P41143
+Flutemetamol (18F),P05067
+Floxuridine,P04818
+Loteprednol,P04150
+Zileuton,P09917
+Mefloquine,P29274
+Mefloquine,P69905
+Quinapril,P12821
+Prazepam,P47869
+Prazepam,P78334
+Prazepam,P28476
+Prazepam,P18505
+Prazepam,P14867
+Prazepam,O00591
+Prazepam,P47870
+Prazepam,O14764
+Prazepam,Q8N1C3
+Prazepam,P31644
+Prazepam,P34903
+Prazepam,A8MPY1
+Prazepam,P28472
+Prazepam,Q99928
+Prazepam,P48169
+Prazepam,Q16445
+Prazepam,Q9UN88
+Prazepam,P24046
+Prazepam,P18507
+Midazolam,P47869
+Midazolam,P78334
+Midazolam,P28476
+Midazolam,P18505
+Midazolam,P14867
+Midazolam,O00591
+Midazolam,P47870
+Midazolam,O14764
+Midazolam,Q8N1C3
+Midazolam,P31644
+Midazolam,P34903
+Midazolam,A8MPY1
+Midazolam,P28472
+Midazolam,Q99928
+Midazolam,P48169
+Midazolam,Q16445
+Midazolam,Q9UN88
+Midazolam,P24046
+Midazolam,P18507
+Amlexanox,P80511
+Amlexanox,P05230
+Amlexanox,P08700
+Amlexanox,Q99584
+Benzonatate,Q14524
+Triflusal,P23219
+Triflusal,P35228
+Triflusal,P19838
+Triflusal,Q9Y233
+Succinic acid,O15460
+Succinic acid,Q12797
+Succinic acid,Q32P28
+Succinic acid,Q9P2R7
+Succinic acid,Q9BXA5
+Succinic acid,Q8IVL6
+Succinic acid,Q9BZW2
+Succinic acid,Q13183
+Succinic acid,P31040
+Succinic acid,Q8IVL5
+Succinic acid,O60568
+Succinic acid,Q96I99
+Succinic acid,O75936
+Succinic acid,P13674
+Succinic acid,O14521
+Succinic acid,O14756
+Succinic acid,Q99643
+Succinic acid,Q02809
+Succinic acid,P51649
+Succinic acid,P21912
+Succinic acid,Q9BYC2
+Succinic acid,Q9UBX3
+Succinic acid,P53597
+Succinic acid,P55809
+Succinic acid,Q9NVH6
+Succinic acid,Q8WWT9
+Nepafenac,P23219
+Nepafenac,P35354
+Cefoxitin,Q7CRA4
+Cefoxitin,P24228
+Cefoxitin,Q75Y35
+Cefoxitin,Q8DR59
+Cefoxitin,P0AEB2
+Cefoxitin,P02919
+Cefoxitin,P0A3M6
+Cefoxitin,Q8DNB6
+Cefoxitin,P0AD68
+Cefoxitin,P08506
+Cefoxitin,P0AFI5
+Cefoxitin,P02918
+Antipyrine,P23219
+Antipyrine,P35354
+Disopyramide,P20309
+Disopyramide,Q14524
+Disopyramide,Q9UK17
+Disopyramide,Q9NZV8
+Disopyramide,P11229
+Disopyramide,P08172
+Alfentanil,P35372
+Tyloxapol,P06858
+Methantheline,P25021
+Methantheline,P11229
+Ibuprofen,P13569
+Ibuprofen,P23219
+Ibuprofen,P00750
+Ibuprofen,P12104
+Ibuprofen,P37231
+Ibuprofen,P07204
+Ibuprofen,P10415
+Ibuprofen,P35354
+Benzthiazide,P00915
+Benzthiazide,P00918
+Benzthiazide,O43570
+Benzthiazide,P55017
+Benzthiazide,P22748
+Benzthiazide,Q16790
+Estrone,P03372
+Ganciclovir,P04293
+Ganciclovir,P03176
+Ethchlorvynol,P47869
+Ethchlorvynol,P78334
+Ethchlorvynol,P18505
+Ethchlorvynol,P14867
+Ethchlorvynol,O00591
+Ethchlorvynol,P47870
+Ethchlorvynol,O14764
+Ethchlorvynol,Q8N1C3
+Ethchlorvynol,P31644
+Ethchlorvynol,P34903
+Ethchlorvynol,P28472
+Ethchlorvynol,Q99928
+Ethchlorvynol,P48169
+Ethchlorvynol,Q16445
+Ethchlorvynol,Q9UN88
+Ethchlorvynol,P18507
+Capsaicin,Q8NER1
+S-Adenosylmethionine,P21964
+S-Adenosylmethionine,P31153
+S-Adenosylmethionine,Q00266
+S-Adenosylmethionine,P35520
+S-Adenosylmethionine,P17707
+S-Adenosylmethionine,Q14749
+Drotaverine,P27815
+Drotaverine,Q13936
+Methazolamide,P00915
+Methazolamide,P00918
+Methazolamide,P43166
+Methazolamide,P22748
+Triprolidine,P35367
+Dronabinol,P21554
+Dronabinol,P34972
+Sulbactam,P00807
+Glutathione,P59796
+Glutathione,O95881
+Glutathione,P07203
+Glutathione,Q03013
+Glutathione,Q9H4Y5
+Glutathione,P10768
+Glutathione,P30711
+Glutathione,O60760
+Glutathione,P36969
+Glutathione,P19440
+Glutathione,P10620
+Glutathione,P18283
+Glutathione,O43708
+Glutathione,P09488
+Glutathione,Q6NSD4
+Glutathione,Q9NS18
+Glutathione,P48637
+Glutathione,P28161
+Glutathione,Q9Y2Q3
+Glutathione,O15217
+Glutathione,P22352
+Glutathione,P00390
+Glutathione,P21266
+Glutathione,Q96SL4
+Glutathione,P46439
+Glutathione,Q16772
+Glutathione,P09211
+Glutathione,O75715
+Glutathione,P78417
+Glutathione,P09210
+Glutathione,P08263
+Glutathione,Q99735
+Glutathione,P35754
+Glutathione,Q8TED1
+Glutathione,Q04760
+Glutathione,O14880
+Glutathione,Q7RTV2
+Glutathione,Q16873
+Glutathione,Q16775
+Cephalexin,Q7CRA4
+Cephalexin,Q75Y35
+Cephalexin,Q8DR59
+Cephalexin,P0A3M6
+Cephalexin,Q8DNB6
+Methacholine,P20309
+Hyoscyamine,P20309
+Hyoscyamine,P08173
+Hyoscyamine,P11229
+Hyoscyamine,P08172
+Letrozole,P11511
+Dicyclomine,P11229
+Dicyclomine,P08172
+Aceprometazine,P35367
+Hydroquinone,P14679
+Fosamprenavir,Q72874
+Levothyroxine,P10827
+Levothyroxine,P10828
+Benzatropine,P35367
+Benzatropine,Q01959
+Benzatropine,P11229
+Orciprenaline,P07550
+Carvedilol,P19320
+Carvedilol,P08913
+Carvedilol,Q12809
+Carvedilol,P15692
+Carvedilol,P08588
+Carvedilol,P18089
+Carvedilol,P16581
+Carvedilol,O95298
+Carvedilol,P25100
+Carvedilol,P35368
+Carvedilol,Q16665
+Carvedilol,P35348
+Carvedilol,P07550
+Carvedilol,P16860
+Carvedilol,P18825
+Carvedilol,P17302
+Dabrafenib,P57059
+Dabrafenib,P04049
+Dabrafenib,Q8NG66
+Dabrafenib,P53667
+Dabrafenib,P15056
+Pimozide,Q12809
+Pimozide,P14416
+Pimozide,P62158
+Pimozide,P35462
+Flurazepam,P47869
+Flurazepam,P78334
+Flurazepam,P28476
+Flurazepam,P18505
+Flurazepam,P14867
+Flurazepam,O00591
+Flurazepam,P47870
+Flurazepam,O14764
+Flurazepam,Q8N1C3
+Flurazepam,P31644
+Flurazepam,P34903
+Flurazepam,A8MPY1
+Flurazepam,P28472
+Flurazepam,Q99928
+Flurazepam,P48169
+Flurazepam,Q16445
+Flurazepam,Q9UN88
+Flurazepam,P24046
+Flurazepam,P18507
+Dactinomycin,Q02880
+Dactinomycin,P11388
+Grazoprevir,Q5L478
+Tolbutamide,P48048
+Tolbutamide,Q09428
+Thiopental,P47869
+Thiopental,O00519
+Thiopental,P36544
+Thiopental,P43681
+Thiopental,P14867
+Thiopental,P42262
+Thiopental,Q13002
+Thiopental,P31644
+Thiopental,P34903
+Thiopental,P48169
+Thiopental,Q16445
+Sumatriptan,P28221
+Sumatriptan,P08908
+Sumatriptan,P28222
+Sumatriptan,P30939
+Droperidol,P14416
+Droperidol,P35348
+Leflunomide,Q14289
+Leflunomide,Q02127
+Leflunomide,P35869
+Ticarcillin,C1KC03
+Bromazepam,P47869
+Bromazepam,P78334
+Bromazepam,P28476
+Bromazepam,P18505
+Bromazepam,P14867
+Bromazepam,O00591
+Bromazepam,P47870
+Bromazepam,O14764
+Bromazepam,Q8N1C3
+Bromazepam,P31644
+Bromazepam,P34903
+Bromazepam,A8MPY1
+Bromazepam,P28472
+Bromazepam,Q99928
+Bromazepam,P48169
+Bromazepam,Q16445
+Bromazepam,Q9UN88
+Bromazepam,P24046
+Bromazepam,P18507
+Tranilast,O60760
+Adenosine monophosphate,P09467
+Adenosine monophosphate,P55263
+Adenosine monophosphate,P11309
+Adenosine monophosphate,P33121
+Adenosine monophosphate,Q08499
+Adenosine monophosphate,P06737
+Adenosine monophosphate,P49773
+Adenosine monophosphate,Q9Y478
+Adenosine monophosphate,Q07343
+Adenosine monophosphate,Q13131
+Adenosine monophosphate,O43741
+Adenosine monophosphate,Q9NR19
+Adenosine monophosphate,Q08828
+Adenosine monophosphate,P16220
+Adenosine monophosphate,Q9NUB1
+Hydroxychloroquine,Q9NYK1
+Hydroxychloroquine,Q9NR96
+Anagrelide,Q14432
+Lisuride,P08913
+Lisuride,P21917
+Lisuride,P28221
+Lisuride,P21918
+Lisuride,P14416
+Lisuride,P28223
+Lisuride,P18089
+Lisuride,P08908
+Lisuride,P21728
+Lisuride,P28222
+Lisuride,P35462
+Lisuride,P28335
+Lisuride,P41595
+Lisuride,P18825
+Ibandronate,P14324
+Fluorescein,P06310
+Amcinonide,P04150
+Amcinonide,P04083
+Benzoic Acid,P51151
+Benzoic Acid,P0ACQ4
+Benzoic Acid,Q52546
+Benzoic Acid,P52758
+Benzoic Acid,Q5PXQ6
+Benzoic Acid,P30044
+Benzoic Acid,P96965
+Benzoic Acid,P06993
+Benzoic Acid,O31168
+Benzoic Acid,P32890
+Benzoic Acid,Q01234
+Benzoic Acid,Q9L9D7
+Benzoic Acid,P14920
+Benzoic Acid,O67987
+Benzoic Acid,P31992
+Vitamin E,P62714
+Vitamin E,O75469
+Vitamin E,Q9UDX4
+Vitamin E,P23743
+Vitamin E,P05771
+Vitamin E,Q9UDX3
+Vitamin E,P17252
+Vitamin E,P09917
+Vitamin E,O76054
+Vitamin E,P67775
+Lorcaserin,P28335
+Sildenafil,Q13956
+Sildenafil,O76074
+Sildenafil,P18545
+Sitagliptin,P27487
+Cyclacillin,Q8XJ01
+Cyclacillin,Q75Y35
+Cyclacillin,Q8DR59
+Cyclacillin,C1KC03
+Famotidine,P25021
+Cefixime,P44469
+Mifepristone,P06401
+Mifepristone,P04150
+Clopidogrel,Q9H244
+Dienestrol,P03372
+Glycine,P41250
+Glycine,P23415
+Glycine,Q9H598
+Glycine,P48067
+Glycine,P23378
+Glycine,P21549
+Glycine,O60391
+Glycine,P13196
+Glycine,P48637
+Glycine,Q53ET4
+Glycine,Q6IB77
+Glycine,Q8WU03
+Glycine,Q969I3
+Glycine,O75600
+Glycine,P48167
+Glycine,P23416
+Glycine,P34897
+Glycine,Q14032
+Glycine,Q14957
+Glycine,P50440
+Glycine,Q12879
+Glycine,Q9Y345
+Glycine,Q9P0Z9
+Glycine,O75311
+Glycine,P22557
+Glycine,Q9BYV1
+Glycine,Q14749
+Glycine,Q7Z2H8
+Glycine,P34896
+Glycine,P23434
+Glycine,Q14330
+Spironolactone,O00305
+Spironolactone,P54289
+Spironolactone,Q00975
+Spironolactone,P06401
+Spironolactone,P10275
+Spironolactone,Q13698
+Spironolactone,Q9H8P0
+Spironolactone,Q6TME4
+Spironolactone,P04150
+Spironolactone,P04278
+Spironolactone,Q08289
+Spironolactone,O95180
+Spironolactone,Q06432
+Spironolactone,P19099
+Spironolactone,Q8IZS8
+Spironolactone,O43497
+Spironolactone,P31213
+Spironolactone,O60840
+Spironolactone,O00555
+Spironolactone,Q01668
+Spironolactone,P18405
+Spironolactone,Q9NY47
+Spironolactone,Q02641
+Spironolactone,Q9P0X4
+Spironolactone,Q13936
+Spironolactone,P08235
+Spironolactone,P54284
+Venlafaxine,P31645
+Venlafaxine,Q01959
+Venlafaxine,P23975
+Dexfenfluramine,P31645
+Dexfenfluramine,P28335
+Duloxetine,P31645
+Duloxetine,Q01959
+Duloxetine,P23975
+Sapropterin,P00439
+Sapropterin,P17752
+Sapropterin,P29474
+Sapropterin,P07101
+Netupitant,P25103
+Isometheptene,P35348
+Isometheptene,Q05940
+Cobimetinib,Q02750
+Moxonidine,Q9Y2I1
+Chlorpromazine,P20309
+Chlorpromazine,P08913
+Chlorpromazine,P21917
+Chlorpromazine,P35367
+Chlorpromazine,Q12809
+Chlorpromazine,P02763
+Chlorpromazine,P21918
+Chlorpromazine,P14416
+Chlorpromazine,P28223
+Chlorpromazine,P18089
+Chlorpromazine,P25100
+Chlorpromazine,P08908
+Chlorpromazine,P21728
+Chlorpromazine,P35368
+Chlorpromazine,P35348
+Chlorpromazine,P19652
+Chlorpromazine,P11229
+Chlorpromazine,P34969
+Chlorpromazine,P62158
+Chlorpromazine,P35462
+Chlorpromazine,P28335
+Chlorpromazine,P41595
+Chlorpromazine,P18825
+Chlorpromazine,P50406
+Chlorpromazine,P17405
+Chlorpromazine,Q9H3N8
+Ceritinib,Q9UM73
+Enoxacin,P43700
+Enoxacin,P43702
+Enoxacin,P11388
+Diazepam,P47869
+Diazepam,P78334
+Diazepam,P28476
+Diazepam,P18505
+Diazepam,P14867
+Diazepam,O00591
+Diazepam,P47870
+Diazepam,P30536
+Diazepam,O14764
+Diazepam,Q8N1C3
+Diazepam,P31644
+Diazepam,P34903
+Diazepam,A8MPY1
+Diazepam,P28472
+Diazepam,Q99928
+Diazepam,P48169
+Diazepam,Q16445
+Diazepam,Q9UN88
+Diazepam,P24046
+Diazepam,P18507
+Bimatoprost,P43115
+Bimatoprost,P34995
+Bimatoprost,P43088
+Bimatoprost,P42330
+Flavoxate,P11229
+Flavoxate,P08172
+Netilmicin,P0A7S3
+Maraviroc,P51681
+Ecallantide,P03952
+Lithium,P29218
+Lithium,P49841
+Lithium,O14732
+Lithium,P42263
+Potassium,P05023
+Metoprolol,P08588
+Metoprolol,P07550
+Clemastine,P35367
+Griseofulvin,Q99456
+Griseofulvin,P10875
+Griseofulvin,P87066
+Bromfenac,P23219
+Bromfenac,P35354
+Bevantolol,P08588
+Bevantolol,P35348
+Bevantolol,P07550
+Cholic Acid,P51161
+Cholic Acid,P22830
+Cholic Acid,P09669
+Cholic Acid,P00395
+Cholic Acid,P14854
+Cholic Acid,P54965
+Cholic Acid,P13073
+Cholic Acid,Q02221
+Cholic Acid,P24310
+Cholic Acid,P00326
+Cholic Acid,Q7KZA3
+Cholic Acid,P23141
+Cholic Acid,P00414
+Cholic Acid,P10606
+Cholic Acid,P15954
+Cholic Acid,P24311
+Cholic Acid,P20674
+Cholic Acid,P00403
+Cholic Acid,P62508
+Cholic Acid,P04054
+Cholic Acid,P10176
+Balsalazide,P23219
+Balsalazide,P37231
+Balsalazide,P35354
+Balsalazide,P09917
+Monobenzone,P14679
+Maprotiline,P20309
+Maprotiline,P08913
+Maprotiline,P35367
+Maprotiline,P14416
+Maprotiline,P28223
+Maprotiline,P18089
+Maprotiline,P08173
+Maprotiline,P25100
+Maprotiline,P08912
+Maprotiline,P35368
+Maprotiline,P35348
+Maprotiline,P11229
+Maprotiline,P34969
+Maprotiline,P28335
+Maprotiline,P18825
+Maprotiline,P23975
+Maprotiline,P08172
+Polythiazide,P55017
+Cefotaxime,P02768
+Cefotaxime,Q7CRA4
+Cefotaxime,Q9NSA0
+Cefotaxime,P42971
+Cefotaxime,Q8DR59
+Cefotaxime,B2ZTR6
+Cefotaxime,Q16348
+Cefotaxime,P0A3M6
+Cefotaxime,Q8DNB6
+Cefotaxime,P46059
+Cefotaxime,Q8TCC7
+Cefotaxime,Q4U2R8
+Cefotaxime,Q9Y694
+Camphor,P00183
+Morphine,P35372
+Morphine,P41145
+Morphine,P41143
+Nitazoxanide,P94692
+Fenoldopam,P08913
+Fenoldopam,P21918
+Fenoldopam,P18089
+Fenoldopam,P25100
+Fenoldopam,P21728
+Fenoldopam,P35368
+Fenoldopam,P35348
+Fenoldopam,P18825
+Terlipressin,P30518
+Terlipressin,P37288
+Terlipressin,P47901
+Thiamine,O60779
+Thiamine,Q9H3S4
+Fidaxomicin,Q18BX5
+Ethanolamine Oleate,P00748
+Miglitol,Q14697
+Miglitol,P10253
+Miglitol,O43451
+Miglitol,Q8TET4
+Cefdinir,P08149
+Cefdinir,Q60FT7
+Cefdinir,P05164
+Rabeprazole,P20648
+Peginesatide,P19235
+Cisapride,Q12809
+Cisapride,Q13639
+Cisapride,P28223
+Cisapride,P46098
+Phenylbutazone,P23219
+Phenylbutazone,Q16647
+Phenylbutazone,P35354
+Fingolimod,Q9H228
+Dimethyl fumarate,Q14145
+Clavulanate,P00807
+Lovastatin,P20701
+Lovastatin,Q92769
+Lovastatin,P04035
+Oxybutynin,P20309
+Oxybutynin,P11229
+Oxybutynin,P08172
+Nicotine,Q05901
+Nicotine,P28329
+Nicotine,P36544
+Nicotine,P43681
+Nicotine,P11511
+Nicotine,Q9UGM1
+Nicotine,Q9GZZ6
+Nicotine,P30926
+Nicotine,P30532
+Nicotine,Q15825
+Nicotine,Q15822
+Nicotine,P32297
+Nicotine,P17787
+Quinidine barbiturate,P47869
+Quinidine barbiturate,P14867
+Quinidine barbiturate,Q14524
+Quinidine barbiturate,P42262
+Quinidine barbiturate,O00180
+Heparin,P16109
+Heparin,P01008
+Heparin,P00742
+Niacin,P49019
+Niacin,Q8TDS4
+Niacin,Q15274
+Niacin,P40261
+Tropicamide,P20309
+Tropicamide,P08173
+Tropicamide,P11229
+Tropicamide,P08172
+Isopropyl Alcohol,P17900
+Isopropyl Alcohol,P43026
+Isopropyl Alcohol,P05893
+Isopropyl Alcohol,Q13838
+Isopropyl Alcohol,Q7Z4W1
+Isopropyl Alcohol,P23367
+Isopropyl Alcohol,P71143
+Isopropyl Alcohol,Q9BV57
+Isopropyl Alcohol,O60942
+Isopropyl Alcohol,P01375
+Isopropyl Alcohol,Q13231
+Isopropyl Alcohol,P01625
+Isopropyl Alcohol,P0AES2
+Isopropyl Alcohol,P13686
+Isopropyl Alcohol,P30793
+Isopropyl Alcohol,P30041
+Isopropyl Alcohol,P23526
+Isopropyl Alcohol,Q46509
+Isopropyl Alcohol,P41407
+Isopropyl Alcohol,Q9WZD5
+Isopropyl Alcohol,Q9X592
+Isopropyl Alcohol,P43133
+Isopropyl Alcohol,P00782
+Isopropyl Alcohol,O67757
+Isopropyl Alcohol,P07478
+Isopropyl Alcohol,Q04095
+Isopropyl Alcohol,P07998
+Isopropyl Alcohol,P14555
+Isopropyl Alcohol,P03706
+Isopropyl Alcohol,Q8YWS4
+Diflunisal,P23219
+Diflunisal,P35354
+Novobiocin,Q06AK7
+Novobiocin,P0A0K8
+L-Citrulline,P00480
+L-Citrulline,P35228
+L-Citrulline,Q9ULC6
+L-Citrulline,P29475
+L-Citrulline,Q9Y2J8
+L-Citrulline,P29474
+L-Citrulline,Q9ULW8
+L-Citrulline,Q9UM07
+L-Citrulline,Q5T6L4
+L-Citrulline,Q6TGC4
+L-Citrulline,O94760
+L-Citrulline,O95865
+L-Citrulline,P00966
+Flucytosine,P12461
+Flucytosine,P26358
+Vinblastine,Q9UJT0
+Vinblastine,P07437
+Vinblastine,P23258
+Vinblastine,Q71U36
+Vinblastine,Q9UJT1
+Vinblastine,P05412
+Ifenprodil,Q13224
+Ifenprodil,Q05586
+Escitalopram,P35367
+Escitalopram,P31645
+Escitalopram,P35348
+Escitalopram,Q01959
+Escitalopram,P11229
+Escitalopram,P23975
+Vorapaxar,P25116
+Rotigotine,P21917
+Rotigotine,P21918
+Rotigotine,P14416
+Rotigotine,P18089
+Rotigotine,P08908
+Rotigotine,P21728
+Rotigotine,P35462
+Telaprevir,B0B3C9
+Amitriptyline,P20309
+Amitriptyline,Q09470
+Amitriptyline,Q16620
+Amitriptyline,P08913
+Amitriptyline,P04629
+Amitriptyline,P35367
+Amitriptyline,P28221
+Amitriptyline,P35372
+Amitriptyline,P13945
+Amitriptyline,P28223
+Amitriptyline,O43525
+Amitriptyline,P08588
+Amitriptyline,P31645
+Amitriptyline,P08173
+Amitriptyline,P25021
+Amitriptyline,P41145
+Amitriptyline,P25100
+Amitriptyline,P08908
+Amitriptyline,P08912
+Amitriptyline,O43526
+Amitriptyline,P35368
+Amitriptyline,P35348
+Amitriptyline,Q9UK17
+Amitriptyline,P28222
+Amitriptyline,Q9NZV8
+Amitriptyline,P07550
+Amitriptyline,P11229
+Amitriptyline,P34969
+Amitriptyline,Q99720
+Amitriptyline,P28335
+Amitriptyline,P23975
+Amitriptyline,P50406
+Amitriptyline,P08172
+Amitriptyline,Q9H3N8
+Amitriptyline,P41143
+Podofilox,P68366
+Podofilox,P07437
+Podofilox,P11388
+Fludarabine,P27707
+Fludarabine,P09884
+Fludarabine,P23921
+Eletriptan,P28221
+Eletriptan,P08908
+Eletriptan,P28566
+Eletriptan,P28222
+Eletriptan,P30939
+Eletriptan,P34969
+Eletriptan,P41595
+Sulfathiazole,Q27738
+Besifloxacin,P43700
+Besifloxacin,P43702
+Besifloxacin,P72525
+Besifloxacin,P72524
+Pirenzepine,P11229
+Glisoxepide,Q15842
+Ciclopirox,P05023
+Carbocisteine,P09211
+Voglibose,O43451
+Mirtazapine,P08913
+Mirtazapine,P35367
+Mirtazapine,Q9Y5N1
+Mirtazapine,P21918
+Mirtazapine,P14416
+Mirtazapine,P28223
+Mirtazapine,P08588
+Mirtazapine,P31645
+Mirtazapine,P41145
+Mirtazapine,P25100
+Mirtazapine,P21728
+Mirtazapine,P35368
+Mirtazapine,P46098
+Mirtazapine,P35348
+Mirtazapine,P07550
+Mirtazapine,Q01959
+Mirtazapine,P34969
+Mirtazapine,P35462
+Mirtazapine,P28335
+Mirtazapine,P41595
+Mirtazapine,P18825
+Mirtazapine,P23975
+Quinine,O15554
+Quinine,P14770
+Elvitegravir,Q7ZJM1
+Levocabastine,P35367
+Levocabastine,O95665
+Primidone,P47869
+Primidone,P78334
+Primidone,P36544
+Primidone,P18505
+Primidone,P43681
+Primidone,P14867
+Primidone,O00591
+Primidone,P47870
+Primidone,P42262
+Primidone,Q13002
+Primidone,O14764
+Primidone,Q8N1C3
+Primidone,P31644
+Primidone,P34903
+Primidone,P28472
+Primidone,Q99928
+Primidone,P48169
+Primidone,Q16445
+Primidone,Q9UN88
+Primidone,P18507
+Liothyronine,P10827
+Liothyronine,P10828
+Clevidipine,Q13698
+Clevidipine,O60840
+Clevidipine,Q01668
+Clevidipine,Q13936
+Calcipotriol,P11473
+Tamibarotene,P10826
+Tamibarotene,P10276
+Methysergide,P28223
+Methysergide,P08908
+Methysergide,P28566
+Methysergide,P28222
+Methysergide,P30939
+Methysergide,P34969
+Methysergide,P28335
+Methysergide,P41595
+Almitrine,P05023
+Lubiprostone,P51788
+Hexafluronium,P06276
+Synthetic Conjugated Estrogens A,P03372
+Nicardipine,P54750
+Nicardipine,P20309
+Nicardipine,P54289
+Nicardipine,P08173
+Nicardipine,Q01064
+Nicardipine,P25100
+Nicardipine,P08912
+Nicardipine,Q08289
+Nicardipine,P35368
+Nicardipine,P35348
+Nicardipine,P11229
+Nicardipine,Q01668
+Nicardipine,P62158
+Nicardipine,Q13936
+Nicardipine,P08172
+Tenofovir,Q72547
+Fluconazole,P10613
+Sacubitril,P08473
+Nimodipine,O00305
+Nimodipine,Q13698
+Nimodipine,Q08289
+Nimodipine,P35869
+Nimodipine,O60840
+Nimodipine,Q01668
+Nimodipine,Q02641
+Nimodipine,Q13936
+Nimodipine,P08235
+Nimodipine,P54284
+Oleic Acid,P29498
+Oleic Acid,P02689
+Oleic Acid,Q9NZD2
+Nateglinide,P37231
+Nateglinide,Q09428
+Meloxicam,P23219
+Meloxicam,P35354
+Arformoterol,P07550
+Nizatidine,P25021
+Bacitracin,P14735
+Bacitracin,P01023
+Abacavir,Q72547
+Trimetrexate,P00374
+Thalidomide,P02763
+Thalidomide,P19838
+Thalidomide,P01375
+Thalidomide,P19652
+Thalidomide,P35354
+Thalidomide,P21802
+Thalidomide,Q96SW2
+Hydrochlorothiazide,P00915
+Hydrochlorothiazide,P00918
+Hydrochlorothiazide,O43570
+Hydrochlorothiazide,P55017
+Hydrochlorothiazide,Q12791
+Hydrochlorothiazide,P22748
+Hydrochlorothiazide,Q16790
+Methotrimeprazine,P20309
+Methotrimeprazine,P08913
+Methotrimeprazine,P21917
+Methotrimeprazine,P35367
+Methotrimeprazine,P21918
+Methotrimeprazine,P14416
+Methotrimeprazine,P28223
+Methotrimeprazine,P18089
+Methotrimeprazine,P08173
+Methotrimeprazine,P25100
+Methotrimeprazine,P08912
+Methotrimeprazine,P21728
+Methotrimeprazine,P35368
+Methotrimeprazine,P35348
+Methotrimeprazine,P11229
+Methotrimeprazine,P35462
+Methotrimeprazine,P28335
+Methotrimeprazine,P18825
+Methotrimeprazine,P08172
+Phenmetrazine,Q01959
+Phenmetrazine,P23975
+Antrafenine,P23219
+Antrafenine,P35354
+Zolmitriptan,P28221
+Zolmitriptan,P08908
+Zolmitriptan,P28222
+Zolmitriptan,P30939
+Physostigmine,P22303
+Atovaquone,Q02768
+Atovaquone,Q02127
+Atovaquone,Q08210
+Cariprazine,P35367
+Cariprazine,P14416
+Cariprazine,P28223
+Cariprazine,P08908
+Cariprazine,P35462
+Cariprazine,P41595
+Isoetarine,P08588
+Isoetarine,P07550
+Cetirizine,P35367
+Meprobamate,P47869
+Meprobamate,P78334
+Meprobamate,P18505
+Meprobamate,P14867
+Meprobamate,O00591
+Meprobamate,P47870
+Meprobamate,O14764
+Meprobamate,Q8N1C3
+Meprobamate,P31644
+Meprobamate,P34903
+Meprobamate,P28472
+Meprobamate,Q99928
+Meprobamate,P48169
+Meprobamate,Q16445
+Meprobamate,Q9UN88
+Meprobamate,P18507
+Enalaprilat,P12821
+Galantamine,Q05901
+Galantamine,P06276
+Galantamine,P36544
+Galantamine,P43681
+Galantamine,P02708
+Galantamine,Q07001
+Galantamine,P07510
+Galantamine,Q04844
+Galantamine,P11230
+Galantamine,P22303
+Galantamine,Q9UGM1
+Galantamine,Q9GZZ6
+Galantamine,P30926
+Galantamine,P30532
+Galantamine,Q15825
+Galantamine,Q15822
+Galantamine,P32297
+Galantamine,P17787
+Auranofin,P30044
+Auranofin,O14920
+Clofazimine,O95342
+Clofazimine,Q5L2G3
+Sertindole,Q12809
+Sertindole,P14416
+Sertindole,P28223
+Sertindole,P25100
+Sertindole,P35368
+Sertindole,P35348
+Sertindole,P28335
+Sertindole,P50406
+Ethinamate,P00915
+Ethinamate,P00918
+Cefacetrile,P02919
+Cefacetrile,P02918
+Olopatadine,P35367
+Olopatadine,P80511
+Olopatadine,P04271
+Olopatadine,P23297
+Olopatadine,Q99584
+Olopatadine,P29034
+Zalcitabine,Q72547
+Ridogrel,P21731
+Ridogrel,P24557
+Vitamin A,P00352
+Vitamin A,P09455
+Vitamin A,P10745
+Vitamin A,P12271
+Vitamin A,Q96NR8
+Vitamin A,Q6NUM9
+Vitamin A,Q9BTZ2
+Vitamin A,O75911
+Vitamin A,Q9NYR8
+Vitamin A,Q8NBN7
+Vitamin A,Q9HBH5
+Vitamin A,O95237
+Vitamin A,O94788
+Vitamin A,Q8TC12
+Vitamin A,P47895
+Vitamin A,Q92781
+Cefalotin,Q7CRA4
+Cefalotin,Q8XJ01
+Cefalotin,Q75Y35
+Cefalotin,Q8DR59
+Cefalotin,P0A3M6
+Cefalotin,Q8DNB6
+Cefalotin,P15555
+Cefalotin,P00811
+Spermine,Q9NWM0
+Spermine,P52788
+Spermine,P11926
+Finasteride,P51857
+Finasteride,P31213
+Finasteride,P18405
+Suvorexant,O43613
+Suvorexant,O43614
+Travoprost,P43088
+Chlormerodrin,Q13621
+Chlormerodrin,P51649
+Norgestrel,P06401
+Norgestrel,P10275
+Norgestrel,P18405
+Tiagabine,P30531
+Hydroxyzine,P35367
+Ertapenem,P44469
+Ertapenem,P24228
+Ertapenem,P45059
+Ertapenem,P02919
+Ertapenem,P0AD68
+Ertapenem,P0AD65
+Ertapenem,P08506
+Ertapenem,P02918
+Bumetanide,Q9H2X9
+Bumetanide,P13569
+Bumetanide,Q13621
+Bumetanide,Q9UP95
+Bumetanide,P55011
+Crisaborole,Q08499
+Crisaborole,Q08493
+Crisaborole,P27815
+Crisaborole,Q07343
+Quazepam,P47869
+Quazepam,P78334
+Quazepam,P28476
+Quazepam,P18505
+Quazepam,P14867
+Quazepam,O00591
+Quazepam,P47870
+Quazepam,O14764
+Quazepam,Q8N1C3
+Quazepam,P31644
+Quazepam,P34903
+Quazepam,A8MPY1
+Quazepam,P28472
+Quazepam,Q99928
+Quazepam,P48169
+Quazepam,Q16445
+Quazepam,Q9UN88
+Quazepam,P24046
+Quazepam,P18507
+Cholecalciferol,P11473
+Clomifene,P03372
+Abiraterone,P05093
+Voriconazole,P10613
+Lacosamide,Q9Y5Y9
+Lacosamide,Q9NY46
+Lacosamide,Q15858
+Artesunate,P04926
+Alosetron,P46098
+Eslicarbazepine acetate,Q99571
+Lornoxicam,P23219
+Lornoxicam,P35354
+Aliskiren,P00797
+Dexamethasone,P04150
+Dexamethasone,P35228
+Dexamethasone,P04083
+Dexamethasone,P51843
+Tiaprofenic acid,P23219
+Tiaprofenic acid,P35354
+Ephedrine,P35348
+Ephedrine,P22303
+Ephedrine,Q05940
+Ephedrine,P23975
+Tolvaptan,P30518
+Tolvaptan,P37288
+Mivacurium,P20309
+Mivacurium,P06276
+Mivacurium,Q15822
+Mivacurium,P08172
+Sulfacytine,P0AC13
+Phenobarbital,P36544
+Phenobarbital,Q8TCU5
+Phenobarbital,P43681
+Phenobarbital,P14867
+Phenobarbital,O60391
+Phenobarbital,P42262
+Phenobarbital,Q13002
+Phenobarbital,Q14957
+Phenobarbital,Q13224
+Phenobarbital,Q05586
+Phenobarbital,Q12879
+Phenobarbital,O15399
+Donepezil,P28223
+Donepezil,P22303
+Drospirenone,P06401
+Drospirenone,P10275
+Drospirenone,P08235
+Desmopressin,P30518
+Desmopressin,P37288
+Desmopressin,P47901
+Flucloxacillin,Q8XJ01
+Amsacrine,Q12809
+Amsacrine,P11388
+Tibolone,P03372
+Peramivir,P27907
+Peramivir,P06818
+Phentermine,P21397
+Phentermine,P31645
+Phentermine,P27338
+Phentermine,Q01959
+Phentermine,P23975
+Clobazam,P47869
+Clobazam,P78334
+Clobazam,P18505
+Clobazam,P14867
+Clobazam,O00591
+Clobazam,P47870
+Clobazam,O14764
+Clobazam,Q8N1C3
+Clobazam,P31644
+Clobazam,P34903
+Clobazam,P28472
+Clobazam,Q99928
+Clobazam,P48169
+Clobazam,Q16445
+Clobazam,Q9UN88
+Clobazam,P18507
+Flupirtine,P08913
+Ospemifene,P03372
+Isradipine,P54289
+Isradipine,Q13698
+Isradipine,Q08289
+Isradipine,O95180
+Isradipine,Q01668
+Isradipine,Q9NY47
+Isradipine,Q13936
+Norethisterone,P06401
+Ambrisentan,P24530
+Ambrisentan,P25101
+Vinorelbine,P07437
+Methohexital,P14867
+Oxymetazoline,P08913
+Oxymetazoline,P18089
+Oxymetazoline,P25100
+Oxymetazoline,P35368
+Oxymetazoline,P35348
+Oxymetazoline,P18825
+Epoprostenol,Q9H244
+Epoprostenol,Q16647
+Epoprostenol,P43119
+Perindopril,P12821
+Icatibant,P30411
+Icatibant,P15144
+Rosiglitazone,P37231
+Rosiglitazone,O60488
+Famciclovir,P04293
+Famciclovir,P09252
+Sulfoxone,Q27738
+Amprenavir,Q72874
+Cycloserine,Q9L888
+Cycloserine,P0A6J8
+Buspirone,P14416
+Buspirone,P08908
+Nitrazepam,P47869
+Nitrazepam,P78334
+Nitrazepam,P28476
+Nitrazepam,P18505
+Nitrazepam,P14867
+Nitrazepam,O00591
+Nitrazepam,P47870
+Nitrazepam,O14764
+Nitrazepam,Q8N1C3
+Nitrazepam,P31644
+Nitrazepam,P34903
+Nitrazepam,P35498
+Nitrazepam,A8MPY1
+Nitrazepam,P28472
+Nitrazepam,Q99928
+Nitrazepam,P48169
+Nitrazepam,Q16445
+Nitrazepam,Q9UN88
+Nitrazepam,P24046
+Nitrazepam,P18507
+Anisindione,P38435
+Adenine,Q5SL87
+Adenine,P0AF12
+Adenine,Q8RLY5
+Adenine,P17802
+Adenine,P78362
+Adenine,O00763
+Adenine,Q05603
+Adenine,P24666
+Adenine,Q9BY49
+Adenine,Q13126
+Adenine,P07741
+Mepyramine,P35367
+Tasimelteon,P48039
+Tasimelteon,P49286
+Epirubicin,P11388
+Epirubicin,O14646
+Ergonovine,P35348
+Framycetin,P61073
+Framycetin,P0A7S3
+Panobinostat,Q13547
+Panobinostat,Q8WUI4
+Panobinostat,Q9BY41
+Panobinostat,Q92769
+Panobinostat,Q969S8
+Panobinostat,Q96DB2
+Panobinostat,Q9UQL6
+Panobinostat,Q9UKV0
+Panobinostat,O15379
+Panobinostat,Q9UBN7
+Panobinostat,P56524
+Vidarabine,Q9QNF7
+Vidarabine,P09250
+Vidarabine,P03198
+Latanoprost,P43088
+Olsalazine,P01579
+Olsalazine,P51580
+Amiloride,P37088
+Amiloride,P19801
+Amiloride,P19634
+Amiloride,Q16515
+Amiloride,P78348
+Amiloride,P00749
+Amiloride,P51172
+Amiloride,P51168
+Amiloride,P51170
+Methamphetamine,P08913
+Methamphetamine,P21397
+Methamphetamine,P18089
+Methamphetamine,P31645
+Methamphetamine,P27338
+Methamphetamine,Q96RJ0
+Methamphetamine,Q01959
+Methamphetamine,Q05940
+Methamphetamine,P54219
+Methamphetamine,P18825
+Methamphetamine,P23975
+Cyproheptadine,P20309
+Cyproheptadine,P35367
+Cyproheptadine,P28223
+Cyproheptadine,P11229
+Cyproheptadine,P28335
+Cyproheptadine,P08172
+Methadone,Q8TCU5
+Methadone,P35372
+Methadone,P46098
+Methadone,Q9GZZ6
+Methadone,P41143
+Prednisolone,P04150
+Oxcarbazepine,Q14524
+Bethanechol,P08172
+Ritodrine,P07550
+Metocurine,Q15822
+Metocurine,P08172
+Drostanolone,P10275
+Florbetapir (18F),P05067
+Terbutaline,P07550
+Sulfamoxole,Q27738
+Streptomycin,P0A7S3
+Streptomycin,Q9UM07
+Docosanol,P03200
+Docosanol,P68344
+Magnesium Sulfate,P54289
+Magnesium Sulfate,Q13698
+Magnesium Sulfate,Q08289
+Magnesium Sulfate,Q06432
+Magnesium Sulfate,Q02641
+Magnesium Sulfate,Q13936
+Efavirenz,Q72547
+Azilsartan medoxomil,P30556
+Caspofungin,A2QLK4
+Propiomazine,P20309
+Propiomazine,P21917
+Propiomazine,P35367
+Propiomazine,P14416
+Propiomazine,P28223
+Propiomazine,P08173
+Propiomazine,P25100
+Propiomazine,P08912
+Propiomazine,P21728
+Propiomazine,P35368
+Propiomazine,P35348
+Propiomazine,P11229
+Propiomazine,P28335
+Propiomazine,P08172
+Fexofenadine,P35367
+Penbutolol,P08588
+Penbutolol,P08908
+Penbutolol,P28222
+Penbutolol,P07550
+Metolazone,P55017
+Felypressin,P37288
+Mirabegron,P13945
+Acetylsalicylic acid,P54619
+Acetylsalicylic acid,P23219
+Acetylsalicylic acid,P54646
+Acetylsalicylic acid,Q9UGJ0
+Acetylsalicylic acid,P51812
+Acetylsalicylic acid,P25101
+Acetylsalicylic acid,Q04828
+Acetylsalicylic acid,P04637
+Acetylsalicylic acid,P19838
+Acetylsalicylic acid,Q9Y478
+Acetylsalicylic acid,P25963
+Acetylsalicylic acid,Q13131
+Acetylsalicylic acid,Q00653
+Acetylsalicylic acid,O14920
+Acetylsalicylic acid,P35354
+Acetylsalicylic acid,O43741
+Acetylsalicylic acid,P11021
+Acetylsalicylic acid,Q9UGI9
+Sulindac,P23219
+Sulindac,P27361
+Sulindac,P15121
+Sulindac,P35354
+Sulindac,Q9Y5Y4
+Sulindac,Q03181
+Silodosin,P25100
+Silodosin,P35368
+Silodosin,P35348
+Aztreonam,P42971
+Aztreonam,P05193
+Haloperidol,P14416
+Haloperidol,P28223
+Haloperidol,P21728
+Haloperidol,Q13224
+Haloperidol,P35462
+Caffeine,P54750
+Caffeine,P29274
+Caffeine,O00408
+Caffeine,Q14123
+Caffeine,Q14571
+Caffeine,O00329
+Caffeine,Q13946
+Caffeine,Q9NP56
+Caffeine,O76074
+Caffeine,O76083
+Caffeine,Q14432
+Caffeine,Q01064
+Caffeine,Q08499
+Caffeine,Q13315
+Caffeine,P42338
+Caffeine,Q08493
+Caffeine,P27815
+Caffeine,Q13370
+Caffeine,O95263
+Caffeine,P30542
+Caffeine,P16499
+Caffeine,Q14643
+Caffeine,Q07343
+Caffeine,O60658
+Caffeine,Q14573
+Caffeine,P35913
+Caffeine,P21817
+Caffeine,P51160
+Caffeine,Q9HCR9
+Caffeine,Q9Y233
+Caffeine,P78527
+Caffeine,P42336
+Perhexiline,P50416
+Perhexiline,P23786
+Ofloxacin,P43700
+Ofloxacin,P43702
+Ofloxacin,P11388
+Mequitazine,P35367
+Selegiline,P21397
+Selegiline,P27338
+Itraconazole,P50859
+Itraconazole,Q16850
+Methylnaltrexone,P35372
+Methylnaltrexone,P41145
+Clenbuterol,P01138
+Clenbuterol,P13945
+Clenbuterol,P08588
+Clenbuterol,P01375
+Clenbuterol,P07550
+Propranolol,P13945
+Propranolol,P08588
+Propranolol,P08908
+Propranolol,P28222
+Propranolol,P07550
+Azacitidine,P26358
+Enoxaparin,P01008
+Enoxaparin,P00742
+Fosphenytoin,Q14524
+Nortriptyline,P08909
+Nortriptyline,P20309
+Nortriptyline,P08913
+Nortriptyline,P35367
+Nortriptyline,P14416
+Nortriptyline,P13945
+Nortriptyline,P28223
+Nortriptyline,P08588
+Nortriptyline,P18089
+Nortriptyline,P31645
+Nortriptyline,P08173
+Nortriptyline,P25100
+Nortriptyline,P08908
+Nortriptyline,P08912
+Nortriptyline,P35368
+Nortriptyline,P35348
+Nortriptyline,P07550
+Nortriptyline,P11229
+Nortriptyline,Q99720
+Nortriptyline,P28335
+Nortriptyline,P18825
+Nortriptyline,O00264
+Nortriptyline,P23975
+Nortriptyline,P50406
+Nortriptyline,P08172
+Azelaic Acid,P51857
+Azelaic Acid,P66010
+Azelaic Acid,P00582
+Azelaic Acid,P31213
+Azelaic Acid,P14679
+Metoclopramide,Q13639
+Metoclopramide,P14416
+Metoclopramide,P46098
+Metoclopramide,P11229
+Gallium nitrate,P02818
+Gallium nitrate,P01584
+Gallium nitrate,Q9S427
+Gallium nitrate,P21281
+Gallium nitrate,P31350
+Triflupromazine,P14416
+Triflupromazine,P21728
+Triflupromazine,P11229
+Triflupromazine,P41595
+Triflupromazine,P08172
+Bendroflumethiazide,P00915
+Bendroflumethiazide,P00918
+Bendroflumethiazide,P55017
+Bendroflumethiazide,Q12791
+Bendroflumethiazide,P22748
+Tocainide,Q14524
+Deslanoside,P05023
+Sirolimus,P09038
+Sirolimus,P42345
+Sirolimus,P62942
+Apixaban,P00742
+Acitretin,P09455
+Acitretin,P19793
+Acitretin,P13631
+Acitretin,P48443
+Acitretin,P10826
+Acitretin,P10276
+Acitretin,P28702
+Cinnarizine,P20309
+Cinnarizine,P35367
+Cinnarizine,Q13698
+Cinnarizine,P21918
+Cinnarizine,P14416
+Cinnarizine,P08173
+Cinnarizine,P08912
+Cinnarizine,P21728
+Cinnarizine,O95180
+Cinnarizine,O43497
+Cinnarizine,P11229
+Cinnarizine,O60840
+Cinnarizine,Q01668
+Cinnarizine,Q9P0X4
+Cinnarizine,Q13936
+Cinnarizine,P08172
+Pimecrolimus,P42345
+Pimecrolimus,P62942
+Etonogestrel,P06401
+Etonogestrel,P03372
+Pantoprazole,P20648
+Fomepizole,P00326
+Fomepizole,P00325
+Fomepizole,P07327
+Fomepizole,P04040
+Pentosan Polysulfate,P09038
+Pentosan Polysulfate,P08620
+Pentosan Polysulfate,P05230
+Cryptenamine,P20309
+Cryptenamine,P08173
+Cryptenamine,P08912
+Cryptenamine,P11229
+Cryptenamine,P08172
+Sorafenib,P11362
+Sorafenib,P09619
+Sorafenib,P35968
+Sorafenib,P17948
+Sorafenib,P36888
+Sorafenib,P04049
+Sorafenib,P07949
+Sorafenib,P35916
+Sorafenib,P15056
+Sorafenib,P10721
+Levosimendan,Q14432
+Levosimendan,P63316
+Levosimendan,Q14654
+Levosimendan,Q15842
+Ranitidine,P25021
+Phenformin,Q13131
+Phenformin,Q15842
+Doripenem,P72355
+Doripenem,P02919
+Doripenem,P0AD65
+Doripenem,Q51504
+Doripenem,P02918
+Dipyridamole,P00813
+Dipyridamole,O76074
+Dipyridamole,P27815
+Dipyridamole,Q9Y233
+Folic Acid,P41439
+Folic Acid,P14207
+Adenosine triphosphate,Q13564
+Adenosine triphosphate,O43681
+Adenosine triphosphate,Q07912
+Adenosine triphosphate,P25098
+Adenosine triphosphate,P12235
+Adenosine triphosphate,Q16671
+Adenosine triphosphate,P08243
+Adenosine triphosphate,P33121
+Adenosine triphosphate,P08183
+Adenosine triphosphate,Q04771
+Adenosine triphosphate,P35626
+Adenosine triphosphate,P37023
+Adenosine triphosphate,Q13131
+Adenosine triphosphate,O60706
+Adenosine triphosphate,O95342
+Adenosine triphosphate,Q92887
+Adenosine triphosphate,O14727
+Adenosine triphosphate,Q96Q40
+Adenosine triphosphate,P49902
+Adenosine triphosphate,Q09428
+Adenosine triphosphate,P31749
+Adenosine triphosphate,P42684
+Adenosine triphosphate,P45844
+Adenosine triphosphate,O95477
+Adenosine triphosphate,P00519
+Adenosine triphosphate,Q9UM73
+Adenosine triphosphate,Q9NR19
+Adenosine triphosphate,Q9Y4W6
+Adenosine triphosphate,Q08828
+Adenosine triphosphate,Q9NUB1
+Adenosine triphosphate,P10398
+Adenosine triphosphate,P36896
+Adenosine triphosphate,P00966
+Flumazenil,P47869
+Flumazenil,P78334
+Flumazenil,P18505
+Flumazenil,P14867
+Flumazenil,O00591
+Flumazenil,P47870
+Flumazenil,O14764
+Flumazenil,Q8N1C3
+Flumazenil,P31644
+Flumazenil,P34903
+Flumazenil,P28472
+Flumazenil,Q99928
+Flumazenil,P48169
+Flumazenil,Q16445
+Flumazenil,Q9UN88
+Flumazenil,P18507
+Epinastine,P08913
+Epinastine,P35367
+Epinastine,P28223
+Epinastine,P25021
+Epinastine,P35348
+Epinastine,P34969
+Acarbose,P10253
+Acarbose,P14410
+Acarbose,O43451
+Acarbose,P04746
+Tizanidine,P08913
+Tizanidine,Q9Y2I1
+Tizanidine,P18089
+Tizanidine,P18825
+Acenocoumarol,Q9BQB6
+Phenytoin,Q14524
+Phenytoin,P35498
+Digitoxin,P05023
+Cefprozil,Q04707
+Cefprozil,P0A3M5
+Cefprozil,P14677
+Argatroban,P00734
+Flunitrazepam,P47869
+Flunitrazepam,P30536
+Flunitrazepam,P31644
+Flunitrazepam,P34903
+Flunitrazepam,P48169
+Flunitrazepam,Q16445
+Xylometazoline,P08913
+Xylometazoline,P18089
+Xylometazoline,P25100
+Xylometazoline,P35368
+Xylometazoline,P35348
+Xylometazoline,P18825
+Phentolamine,P08913
+Phentolamine,P35348
+Cerulenin,P0A953
+Cerulenin,P0A6R0
+Cerulenin,P49327
+Cerulenin,P0AAI5
+Nebivolol,P08588
+Nebivolol,P07550
+Trazodone,P08913
+Trazodone,P35367
+Trazodone,P28223
+Trazodone,P31645
+Trazodone,P08908
+Trazodone,P35348
+Trazodone,P28335
+Voacamine,P08183
+Niflumic Acid,P51800
+Niflumic Acid,P23219
+Niflumic Acid,P47712
+Niflumic Acid,P35354
+Niflumic Acid,O60656
+Niflumic Acid,P04054
+Cevimeline,P20309
+Cevimeline,P11229
+Canagliflozin,P31639
+Canagliflozin,P13866
+Avibactam,Q9F663
+Avibactam,Q9EXV5
+Avibactam,P0AD63
+Avibactam,P62593
+Avibactam,A0A023W3H0
+Avibactam,P0A9Z7
+Avibactam,P37321
+Avibactam,P0AD64
+Avibactam,Q93CA2
+Avibactam,Q9L5C7
+Azlocillin,Q8XJ01
+Benzphetamine,P08913
+Benzphetamine,P35348
+Benzphetamine,Q01959
+Benzphetamine,Q05940
+Methylphenidate,P31645
+Methylphenidate,Q01959
+Methylphenidate,P23975
+Oxprenolol,P08588
+Oxprenolol,P07550
+Bupropion,Q01959
+Bupropion,P23975
+Bupropion,P32297
+Zidovudine,O14746
+Zidovudine,Q72547
+L-Leucine,Q15031
+L-Leucine,P54687
+L-Leucine,Q9UIC8
+L-Leucine,Q9P2J5
+L-Leucine,O15382
+L-Leucine,O60294
+Fludiazepam,P47869
+Fludiazepam,P78334
+Fludiazepam,P28476
+Fludiazepam,P18505
+Fludiazepam,P14867
+Fludiazepam,O00591
+Fludiazepam,P47870
+Fludiazepam,O14764
+Fludiazepam,Q8N1C3
+Fludiazepam,P31644
+Fludiazepam,P34903
+Fludiazepam,A8MPY1
+Fludiazepam,P28472
+Fludiazepam,Q99928
+Fludiazepam,P24046
+Fludiazepam,P18507
+Carmustine,P00390
+Latamoxef,P24228
+Latamoxef,P42971
+Latamoxef,P02919
+Latamoxef,P02918
+Acebutolol,P08588
+Acebutolol,P07550
+Phenelzine,P21397
+Phenelzine,P80404
+Phenelzine,P24298
+Phenelzine,P27338
+Phenelzine,Q16853
+Phenelzine,Q8TD30
+Phenelzine,Q9UGI5
+Procaine,Q92952
+Procaine,P21397
+Procaine,Q8TCU5
+Procaine,Q9Y5Y9
+Procaine,Q9H2S1
+Procaine,Q12791
+Procaine,Q9UGI6
+Procaine,P46098
+Procaine,Q9NPA1
+Procaine,P27338
+Procaine,Q01959
+Procaine,Q9Y691
+Procaine,Q86W47
+Procaine,Q16558
+Procaine,O15554
+Procaine,Q15822
+Practolol,P08588
+Dutasteride,P31213
+Dutasteride,P18405
+Pyridostigmine,P06276
+Pyridostigmine,P22303
+Trisalicylate-choline,P23219
+Trisalicylate-choline,P35354
+Pergolide,P08913
+Pergolide,P21917
+Pergolide,P28221
+Pergolide,P21918
+Pergolide,P14416
+Pergolide,P28223
+Pergolide,P18089
+Pergolide,P25100
+Pergolide,P08908
+Pergolide,P21728
+Pergolide,P35368
+Pergolide,P35348
+Pergolide,P28222
+Pergolide,P35462
+Pergolide,P28335
+Pergolide,P41595
+Pergolide,P18825
+Activated charcoal,P06858
+Repaglinide,P37231
+Repaglinide,Q09428
+Mebendazole,P68371
+Mebendazole,Q71U36
+Trihexyphenidyl,P20309
+Trihexyphenidyl,P08173
+Trihexyphenidyl,P08912
+Trihexyphenidyl,P11229
+Trihexyphenidyl,P08172
+Micafungin,A2QLK4
+Mimosine,P13500
+Mimosine,P34896
+Mimosine,P14679
+Dimetacrine,P22303
+Methocarbamol,P00915
+Metixene,P20309
+Metixene,P08173
+Metixene,P08912
+Metixene,P11229
+Metixene,P08172
+Trovafloxacin,P43700
+Trovafloxacin,P43702
+Trovafloxacin,P11388
+Dipivefrin,P08913
+Dipivefrin,P06276
+Dipivefrin,P35348
+Dipivefrin,P22303
+Dipivefrin,P07550
+Triptorelin,P30968
+Doxapram,Q9NPC2
+Doxapram,O14649
+Bopindolol,P13945
+Bopindolol,P08588
+Bopindolol,P08908
+Bopindolol,P28222
+Bopindolol,P07550
+Adefovir Dipivoxil,P24024
+Carboprost Tromethamine,P34995
+Oxybuprocaine,Q9Y5Y9
+Belinostat,Q13547
+Belinostat,Q8WUI4
+Belinostat,Q9BY41
+Belinostat,Q92769
+Belinostat,Q969S8
+Belinostat,Q96DB2
+Belinostat,Q9UQL6
+Belinostat,Q9UKV0
+Belinostat,O15379
+Belinostat,Q9UBN7
+Belinostat,P56524
+Succinylcholine,P20309
+Succinylcholine,Q693P7
+Succinylcholine,Q9GZZ6
+Succinylcholine,P11229
+Succinylcholine,P08172
+Amifostine,P22413
+Amifostine,P10696
+WF10,Q7L5Y9
+WF10,Q86VB7
+Temsirolimus,P42345
+Mycophenolic acid,P20839
+Mycophenolic acid,P12268
+Mycophenolate mofetil,P20839
+Mycophenolate mofetil,P12268
+Fluoxymesterone,P10275
+Fluoxymesterone,P04150
+Fluoxymesterone,P16471
+Fluoxymesterone,P03372
+Spirapril,P12821
+Quinidine,Q12809
+Quinidine,Q14524
+Quinidine,Q9Y257
+Quinidine,O00180
+Darifenacin,P20309
+Darifenacin,P08173
+Darifenacin,P08912
+Darifenacin,P11229
+Darifenacin,P08172
+Synthetic Conjugated Estrogens B,P03372
+Tadalafil,O76074
+Tadalafil,Q9HCR9
+Verapamil,O00305
+Verapamil,Q00975
+Verapamil,Q12809
+Verapamil,Q13698
+Verapamil,P31645
+Verapamil,Q14524
+Verapamil,Q08289
+Verapamil,O43497
+Verapamil,O60840
+Verapamil,Q14654
+Verapamil,O00555
+Verapamil,Q01668
+Verapamil,Q02641
+Verapamil,Q9P0X4
+Verapamil,Q13936
+Verapamil,P54284
+Cephaloglycin,Q65HB5
+Nilutamide,P10275
+Sulfanilamide,P0AC13
+Bepotastine,P35367
+Pivampicillin,Q8XJ01
+Hydromorphone,P35372
+Hydromorphone,P41145
+Hydromorphone,P41143
+Hydrocortisone,P04150
+Hydrocortisone,P04083
+Bethanidine,P48048
+Bethanidine,P08913
+Bethanidine,P13945
+Bethanidine,P08588
+Bethanidine,P18089
+Bethanidine,P07550
+Bethanidine,P18825
+Bezafibrate,P37231
+Bezafibrate,Q07869
+Bezafibrate,Q03181
+Cefradine,P02918
+Ipratropium bromide,P20309
+Ipratropium bromide,P11229
+Ipratropium bromide,P08172
+Valrubicin,P11388
+Antazoline,P35367
+Cysteamine,P61278
+Cysteamine,P49146
+Nintedanib,P11362
+Nintedanib,P35968
+Nintedanib,P12931
+Nintedanib,P17948
+Nintedanib,P06239
+Nintedanib,P22607
+Nintedanib,P07948
+Nintedanib,P36888
+Nintedanib,P35916
+Nintedanib,P21802
+Anidulafungin,A2QLK4
+Promethazine,P20309
+Promethazine,P35367
+Promethazine,P14416
+Promethazine,P28223
+Promethazine,P08173
+Promethazine,P08912
+Promethazine,P35348
+Promethazine,P11229
+Promethazine,P62158
+Promethazine,P08172
+Perampanel,P42261
+Talbutal,P47869
+Talbutal,P78334
+Talbutal,P36544
+Talbutal,P18505
+Talbutal,P43681
+Talbutal,P14867
+Talbutal,O00591
+Talbutal,P47870
+Talbutal,P42262
+Talbutal,Q13002
+Talbutal,O14764
+Talbutal,Q8N1C3
+Talbutal,P31644
+Talbutal,P34903
+Talbutal,P28472
+Talbutal,Q99928
+Talbutal,P48169
+Talbutal,Q16445
+Talbutal,Q9UN88
+Talbutal,P18507
+Acetophenazine,P14416
+Acetophenazine,P21728
+Levobunolol,P08588
+Levobunolol,P07550
+Acetyldigitoxin,P05023
+Mepenzolate,P20309
+Mepenzolate,P11229
+Propericiazine,P08913
+Propericiazine,P21728
+Propericiazine,P35368
+Ixabepilone,Q13509
+Topotecan,Q969P6
+Topotecan,P11387
+Cyclosporine,P30405
+Cyclosporine,P62937
+Cyclosporine,Q96LZ3
+Cyclosporine,P49069
+Bromopride,P14416
+Meclofenamic acid,P23219
+Meclofenamic acid,O43525
+Meclofenamic acid,O43526
+Meclofenamic acid,P35354
+Meclofenamic acid,P09917
+Mometasone,P04150
+Estazolam,P47869
+Estazolam,P78334
+Estazolam,P28476
+Estazolam,P18505
+Estazolam,P14867
+Estazolam,O00591
+Estazolam,P47870
+Estazolam,O14764
+Estazolam,Q8N1C3
+Estazolam,P31644
+Estazolam,P34903
+Estazolam,A8MPY1
+Estazolam,P28472
+Estazolam,Q99928
+Estazolam,P48169
+Estazolam,Q16445
+Estazolam,Q9UN88
+Estazolam,P24046
+Estazolam,P18507
+Glutethimide,P47869
+Glutethimide,P78334
+Glutethimide,P18505
+Glutethimide,P14867
+Glutethimide,O00591
+Glutethimide,P47870
+Glutethimide,O14764
+Glutethimide,Q8N1C3
+Glutethimide,P31644
+Glutethimide,P34903
+Glutethimide,P28472
+Glutethimide,Q99928
+Glutethimide,P48169
+Glutethimide,Q16445
+Glutethimide,Q9UN88
+Glutethimide,P18507
+Calcitriol,P11473
+Butenafine,Q14534
+Flavin adenine dinucleotide,P11310
+Flavin adenine dinucleotide,Q15067
+Flavin adenine dinucleotide,P16083
+Flavin adenine dinucleotide,Q86YB8
+Flavin adenine dinucleotide,Q56839
+Flavin adenine dinucleotide,P10902
+Flavin adenine dinucleotide,P47989
+Flavin adenine dinucleotide,P16640
+Flavin adenine dinucleotide,Q92947
+Flavin adenine dinucleotide,P21397
+Flavin adenine dinucleotide,P07771
+Flavin adenine dinucleotide,P09063
+Flavin adenine dinucleotide,P37062
+Flavin adenine dinucleotide,P12676
+Flavin adenine dinucleotide,P39662
+Flavin adenine dinucleotide,P0C278
+Flavin adenine dinucleotide,P55792
+Flavin adenine dinucleotide,Q9UKU7
+Flavin adenine dinucleotide,P28861
+Flavin adenine dinucleotide,Q16881
+Flavin adenine dinucleotide,P26440
+Flavin adenine dinucleotide,P37747
+Flavin adenine dinucleotide,Q12882
+Flavin adenine dinucleotide,P24232
+Flavin adenine dinucleotide,Q9AGP8
+Flavin adenine dinucleotide,Q94655
+Flavin adenine dinucleotide,O31616
+Flavin adenine dinucleotide,P22570
+Flavin adenine dinucleotide,Q47PU3
+Flavin adenine dinucleotide,O95831
+Flavin adenine dinucleotide,Q9RC23
+Flavin adenine dinucleotide,Q52437
+Flavin adenine dinucleotide,Q72JJ3
+Flavin adenine dinucleotide,P28593
+Flavin adenine dinucleotide,P42593
+Flavin adenine dinucleotide,Q9LAG2
+Flavin adenine dinucleotide,Q9Z4P0
+Flavin adenine dinucleotide,P16435
+Flavin adenine dinucleotide,P00390
+Flavin adenine dinucleotide,P05327
+Flavin adenine dinucleotide,P0A9P4
+Flavin adenine dinucleotide,P00387
+Flavin adenine dinucleotide,P18925
+Flavin adenine dinucleotide,P29475
+Flavin adenine dinucleotide,P16219
+Flavin adenine dinucleotide,P00438
+Flavin adenine dinucleotide,Q96RQ9
+Flavin adenine dinucleotide,P27338
+Flavin adenine dinucleotide,P15559
+Flavin adenine dinucleotide,P35340
+Flavin adenine dinucleotide,P61497
+Flavin adenine dinucleotide,P61432
+Flavin adenine dinucleotide,P0AEZ1
+Flavin adenine dinucleotide,P58558
+Flavin adenine dinucleotide,P38038
+Flavin adenine dinucleotide,P00914
+Flavin adenine dinucleotide,P21890
+Flavin adenine dinucleotide,P06715
+Flavin adenine dinucleotide,P09788
+Flavin adenine dinucleotide,P08373
+Flavin adenine dinucleotide,P09622
+Flavin adenine dinucleotide,P06149
+Flavin adenine dinucleotide,Q06319
+Flavin adenine dinucleotide,P14218
+Flavin adenine dinucleotide,O06934
+Flavin adenine dinucleotide,Q9RA47
+Flavin adenine dinucleotide,Q9UHQ9
+Flavin adenine dinucleotide,P22637
+Flavin adenine dinucleotide,P14920
+Flavin adenine dinucleotide,P20586
+Flavin adenine dinucleotide,P55789
+Flavin adenine dinucleotide,P83223
+Flavin adenine dinucleotide,P77967
+Flavin adenine dinucleotide,Q44532
+Flavin adenine dinucleotide,Q7SID9
+Flavin adenine dinucleotide,P40859
+Flavin adenine dinucleotide,Q888A4
+Flavin adenine dinucleotide,Q51225
+Flavin adenine dinucleotide,O05783
+Flavin adenine dinucleotide,P37063
+Flavin adenine dinucleotide,Q9KIE5
+Flavin adenine dinucleotide,O53355
+Flavin adenine dinucleotide,P09546
+Flavin adenine dinucleotide,Q9WYT0
+Flavin adenine dinucleotide,P19480
+Perphenazine,P14416
+Perphenazine,P21728
+Perphenazine,P62158
+Quinethazone,P00915
+Quinethazone,P00918
+Quinethazone,P55017
+Quinethazone,Q13621
+Quinethazone,P55011
+Bifonazole,P10613
+Bifonazole,P20813
+Dalfampridine,Q09470
+Dalfampridine,P22001
+Dalfampridine,P17658
+Dalfampridine,Q16322
+Dalfampridine,P16389
+Dalfampridine,Q9NSA2
+Dalfampridine,Q9UK17
+Dalfampridine,Q14721
+Dalfampridine,Q92953
+Dalfampridine,Q9NZV8
+Dalfampridine,Q96RP8
+Dalfampridine,P22459
+Dalfampridine,Q14003
+Dalfampridine,Q96PR1
+Dalfampridine,P48547
+Dalfampridine,P22460
+Masoprocol,P09917
+Carbimazole,P07202
+Idarubicin,P11388
+L-Glutamine,P15104
+L-Glutamine,Q06203
+L-Glutamine,P17812
+Doxycycline,P61769
+Doxycycline,P0A7V8
+Doxycycline,Q9UM07
+Doxycycline,P0A7X3
+Diazoxide,P00915
+Diazoxide,P00918
+Diazoxide,P55017
+Diazoxide,Q12791
+Diazoxide,P05023
+Diazoxide,Q14654
+Sunitinib,P07333
+Sunitinib,P09619
+Sunitinib,P35968
+Sunitinib,P17948
+Sunitinib,P16234
+Sunitinib,P36888
+Sunitinib,P35916
+Sunitinib,P10721
+Thiocolchicoside,P47869
+Thiocolchicoside,P78334
+Thiocolchicoside,P23415
+Thiocolchicoside,P18505
+Thiocolchicoside,P14867
+Thiocolchicoside,O00591
+Thiocolchicoside,P47870
+Thiocolchicoside,O14764
+Thiocolchicoside,Q8N1C3
+Thiocolchicoside,P31644
+Thiocolchicoside,P34903
+Thiocolchicoside,P28472
+Thiocolchicoside,Q99928
+Thiocolchicoside,P48169
+Thiocolchicoside,Q16445
+Thiocolchicoside,Q9UN88
+Thiocolchicoside,O14788
+Thiocolchicoside,P18507
+Ulobetasol,P04150
+Etacrynic acid,Q13621
+Etacrynic acid,P05023
+Amlodipine,P00915
+Amlodipine,P54289
+Amlodipine,Q00975
+Amlodipine,Q13698
+Amlodipine,Q6TME4
+Amlodipine,Q08289
+Amlodipine,Q8IZS8
+Amlodipine,Q01668
+Amlodipine,Q13936
+Amlodipine,P17405
+Diclofenac,P23219
+Diclofenac,O43525
+Diclofenac,O43526
+Diclofenac,P78348
+Diclofenac,P35354
+Diclofenac,P09917
+Diclofenac,P35499
+Diclofenac,P14555
+Dolutegravir,Q7ZJM1
+Atomoxetine,Q8TCU5
+Atomoxetine,P31645
+Atomoxetine,O60391
+Atomoxetine,Q14957
+Atomoxetine,Q13224
+Atomoxetine,Q05586
+Atomoxetine,Q12879
+Atomoxetine,Q01959
+Atomoxetine,O15399
+Atomoxetine,P23975
+Droxidopa,P08913
+Droxidopa,P00439
+Droxidopa,P13945
+Droxidopa,P08588
+Droxidopa,P18089
+Droxidopa,P25100
+Droxidopa,P35368
+Droxidopa,P35348
+Droxidopa,P07550
+Droxidopa,P18825
+Prednisone,P04150
+Prednisone,P28845
+Enflurane,P47869
+Enflurane,Q09470
+Enflurane,P78334
+Enflurane,P23415
+Enflurane,P18505
+Enflurane,P14867
+Enflurane,P42261
+Enflurane,O00591
+Enflurane,P47870
+Enflurane,P98194
+Enflurane,P48167
+Enflurane,O14764
+Enflurane,Q8N1C3
+Enflurane,P31644
+Enflurane,P34903
+Enflurane,P30049
+Enflurane,P28472
+Enflurane,Q99928
+Enflurane,P48169
+Enflurane,Q16445
+Enflurane,O15554
+Enflurane,Q9UN88
+Enflurane,P18507
+Chlormezanone,P30536
+Ceftizoxime,P02919
+Ceftizoxime,Q53707
+Ceftizoxime,P0AD68
+Ceftizoxime,P02918
+Paliperidone,P08913
+Paliperidone,P10635
+Paliperidone,P21917
+Paliperidone,P35367
+Paliperidone,P28221
+Paliperidone,P08684
+Paliperidone,P14416
+Paliperidone,P28223
+Paliperidone,P18089
+Paliperidone,P08908
+Paliperidone,P21728
+Paliperidone,P35368
+Paliperidone,P35348
+Paliperidone,P20815
+Paliperidone,P35462
+Paliperidone,P28335
+Paliperidone,P18825
+Ethosuximide,O43497
+Vilazodone,P08908
+Ethionamide,P0A5Y6
+Ethionamide,Q08129
+Quinacrine,P47712
+Quinacrine,O60733
+Quinacrine,Q15111
+Quinestrol,P03372
+Deserpidine,Q05940
+Hydrocodone,P35372
+Hydrocodone,P41143
+Montelukast,Q9Y271
+Montelukast,P09917
+Choline,P49585
+Choline,O14939
+Choline,P06276
+Choline,Q13393
+Choline,Q8TCT1
+Choline,Q9Y5K3
+Choline,P22303
+Sulfametopyrazine,Q27738
+Ajmaline,Q14524
+Estradiol,O75469
+Estradiol,Q92731
+Estradiol,P03372
+Levomethadyl Acetate,P35372
+Levomethadyl Acetate,P30926
+Levomethadyl Acetate,P32297
+Indapamide,P51787
+Indapamide,P15382
+Eltrombopag,P40238
+Lenvatinib,P11362
+Lenvatinib,P35968
+Lenvatinib,P17948
+Lenvatinib,P22607
+Lenvatinib,P35916
+Lenvatinib,P22455
+Lenvatinib,P21802
+Lenvatinib,P10721
+Lasofoxifene,Q92731
+Lasofoxifene,P03372
+Tiotropium,P20309
+Tiotropium,P11229
+Tiotropium,P08172
+Etodolac,P19793
+Etodolac,P23219
+Etodolac,P35354
+Miglustat,Q16739
+Azelastine,P35367
+Loxapine,P47898
+Loxapine,P20309
+Loxapine,P08913
+Loxapine,P21917
+Loxapine,P35367
+Loxapine,P28221
+Loxapine,P21918
+Loxapine,P14416
+Loxapine,P28223
+Loxapine,P08588
+Loxapine,P18089
+Loxapine,P31645
+Loxapine,P08173
+Loxapine,P25021
+Loxapine,P08908
+Loxapine,P08912
+Loxapine,P21728
+Loxapine,P28566
+Loxapine,P35368
+Loxapine,P46098
+Loxapine,P35348
+Loxapine,P28222
+Loxapine,Q01959
+Loxapine,P11229
+Loxapine,P34969
+Loxapine,P35462
+Loxapine,P28335
+Loxapine,P18825
+Loxapine,P23975
+Loxapine,P50406
+Loxapine,P08172
+Loxapine,Q9H3N8
+Gliquidone,Q09428
+Gliquidone,Q15842
+Paclitaxel,P11137
+Paclitaxel,O75469
+Paclitaxel,P27816
+Paclitaxel,P10415
+Paclitaxel,P10636
+Paclitaxel,Q9H4B7
+Riboflavin,Q969G6
+Riboflavin,P0AFU8
+Riboflavin,P30043
+Tiludronate,P18031
+Tiludronate,P38606
+Trimethadione,O43497
+Aspartame,Q8NER1
+Aspartame,Q8TE23
+Diltiazem,Q06432
+Carbinoxamine,P35367
+Dextropropoxyphene,P35372
+Dextropropoxyphene,P41145
+Dextropropoxyphene,P41143
+Cabergoline,P08913
+Cabergoline,P21917
+Cabergoline,P28221
+Cabergoline,P21918
+Cabergoline,P14416
+Cabergoline,P28223
+Cabergoline,P08588
+Cabergoline,P18089
+Cabergoline,P25100
+Cabergoline,P08908
+Cabergoline,P21728
+Cabergoline,P35368
+Cabergoline,P35348
+Cabergoline,P28222
+Cabergoline,P07550
+Cabergoline,P34969
+Cabergoline,P35462
+Cabergoline,P28335
+Cabergoline,P41595
+Cabergoline,P18825
+Vildagliptin,P27487
+Emedastine,P35367
+Anastrozole,P11511
+Dyclonine,Q9Y5Y9
+Tetrabenazine,P14416
+Tetrabenazine,Q05940
+Fluticasone Propionate,P06401
+Fluticasone Propionate,P04150
+Fluticasone Propionate,P47712
+Fluticasone Propionate,P08235
+Pipotiazine,P14416
+Pipotiazine,P28223
+Pipotiazine,P08908
+Pipotiazine,P21728
+Josamycin,P44345
+Pazopanib,Q9UQQ2
+Pazopanib,P09619
+Pazopanib,P35968
+Pazopanib,P17948
+Pazopanib,P22607
+Pazopanib,P05230
+Pazopanib,Q08881
+Pazopanib,P16234
+Pazopanib,P35916
+Pazopanib,P10721
+Desipramine,P20309
+Desipramine,P08913
+Desipramine,P35367
+Desipramine,P14416
+Desipramine,P28223
+Desipramine,P08588
+Desipramine,P18089
+Desipramine,P31645
+Desipramine,P08173
+Desipramine,P25100
+Desipramine,P08908
+Desipramine,P08912
+Desipramine,P35368
+Desipramine,P35348
+Desipramine,P07550
+Desipramine,P11229
+Desipramine,P28335
+Desipramine,P18825
+Desipramine,P23975
+Desipramine,P17405
+Desipramine,P08172
+Emtricitabine,Q72547
+Nevirapine,Q72547
+Reserpine,Q05940
+Reserpine,P54219
+Tolazamide,P48048
+Flunisolide,P04150
+Terconazole,P10613
+Lamotrigine,Q99250
+Telmisartan,P37231
+Telmisartan,P30556
+Dopamine,P21917
+Dopamine,P21918
+Dopamine,P14416
+Dopamine,P31645
+Dopamine,P08908
+Dopamine,P21728
+Dopamine,Q01959
+Dopamine,P34969
+Dopamine,P35462
+Dopamine,P23975
+Dopamine,P09172
+Fluvoxamine,P31645
+Gallamine Triethiodide,P22303
+Gallamine Triethiodide,Q15822
+Gallamine Triethiodide,P08172
+Dantrolene,P21817
+Mesoridazine,P14416
+Mesoridazine,P28223
+Asenapine,P47898
+Asenapine,P08913
+Asenapine,P21917
+Asenapine,P35367
+Asenapine,P14416
+Asenapine,P28223
+Asenapine,P08588
+Asenapine,P18089
+Asenapine,P25021
+Asenapine,P08908
+Asenapine,P21728
+Asenapine,P35348
+Asenapine,P28222
+Asenapine,P07550
+Asenapine,P34969
+Asenapine,P35462
+Asenapine,P28335
+Asenapine,P41595
+Asenapine,P18825
+Asenapine,P50406
+Celecoxib,O15530
+Celecoxib,P35354
+Pralatrexate,P04818
+Pralatrexate,P00374
+Dextroamphetamine,P35368
+Dextroamphetamine,P35348
+Dextroamphetamine,Q96RJ0
+Dextroamphetamine,Q01959
+Dextroamphetamine,Q05940
+Dextroamphetamine,P23975
+Pethidine,P20309
+Pethidine,P35372
+Pethidine,P31645
+Pethidine,P08173
+Pethidine,P41145
+Pethidine,P08912
+Pethidine,Q14957
+Pethidine,Q13224
+Pethidine,Q05586
+Pethidine,Q12879
+Pethidine,Q01959
+Pethidine,P11229
+Pethidine,O15399
+Pethidine,P23975
+Pethidine,P08172
+Indinavir,Q72874
+Tranexamic Acid,P00747
+Ibrutinib,Q06187
+Inulin,Q9F0I5
+Ceftazidime,Q75Y35
+Ceftazidime,P72161
+Ceftazidime,Q9X6W0
+Ceftazidime,Q8DR59
+Ceftazidime,Q9X6V3
+Ceftazidime,P02919
+Ceftazidime,P0AD68
+Ceftazidime,P0AD65
+Ceftazidime,P02918
+Colchicine,P07437
+Colchicine,Q9H4B7
+Atenolol,P08588
+Atenolol,P07550
+Lansoprazole,P20648
+Carbetocin,P30559
+Nisoldipine,P54289
+Nisoldipine,Q13698
+Nisoldipine,Q08289
+Nisoldipine,Q01668
+Nisoldipine,Q13936
+Tofisopam,O00408
+Tofisopam,Q14432
+Tofisopam,P27815
+Tofisopam,Q9Y233
+Phenol,P00720
+Phenol,Q05603
+Phenol,P43133
+Glycodiazine,P48048
+Glycodiazine,Q09428
+Clindamycin,P0A7J6
+Dicoumarol,Q9BQB6
+Dicoumarol,P15559
+Dicoumarol,Q08257
+Aripiprazole,P20309
+Aripiprazole,P08913
+Aripiprazole,P21917
+Aripiprazole,P35367
+Aripiprazole,P28221
+Aripiprazole,P21918
+Aripiprazole,P14416
+Aripiprazole,P28223
+Aripiprazole,P18089
+Aripiprazole,P08173
+Aripiprazole,P08908
+Aripiprazole,P08912
+Aripiprazole,P21728
+Aripiprazole,P28566
+Aripiprazole,P35368
+Aripiprazole,P46098
+Aripiprazole,P35348
+Aripiprazole,P28222
+Aripiprazole,P11229
+Aripiprazole,P34969
+Aripiprazole,P35462
+Aripiprazole,P28335
+Aripiprazole,P18825
+Aripiprazole,P50406
+Aripiprazole,P08172
+Sulfamethazine,P0AC13
+Meclizine,P35367
+Sufentanil,P35372
+Sufentanil,P41145
+Sufentanil,P41143
+Ursodeoxycholic acid,P52895
+Metyrosine,P07101
+Alfuzosin,Q12809
+Alfuzosin,P25100
+Alfuzosin,P35368
+Alfuzosin,P35348
+Aprobarbital,P47869
+Aprobarbital,P36544
+Aprobarbital,P43681
+Aprobarbital,P14867
+Aprobarbital,P42262
+Aprobarbital,Q13002
+Aprobarbital,P31644
+Aprobarbital,P34903
+Aprobarbital,P48169
+Aprobarbital,Q16445
+Fluorouracil,P04818
+Desoximetasone,P04150
+Dexrazoxane,Q02880
+Dexrazoxane,P11388
+Chlorprothixene,P20309
+Chlorprothixene,P35367
+Chlorprothixene,P14416
+Chlorprothixene,P28223
+Chlorprothixene,P08173
+Chlorprothixene,P08912
+Chlorprothixene,P21728
+Chlorprothixene,P11229
+Chlorprothixene,P35462
+Chlorprothixene,P28335
+Chlorprothixene,P41595
+Chlorprothixene,P08172
+Dextrothyroxine,P07202
+Dextrothyroxine,P10827
+Dextrothyroxine,P10828
+Clobetasol propionate,P04150
+Plerixafor,P61073
+Methyl aminolevulinate,P12314
+Proparacaine,Q9Y5Y9
+Acetylcholine,P22303
+Flunarizine,P35367
+Flunarizine,O95180
+Flunarizine,O43497
+Flunarizine,P62158
+Flunarizine,Q9P0X4
+Ziprasidone,P20309
+Ziprasidone,P08913
+Ziprasidone,P21917
+Ziprasidone,P35367
+Ziprasidone,P28221
+Ziprasidone,P21918
+Ziprasidone,P14416
+Ziprasidone,P28223
+Ziprasidone,P18089
+Ziprasidone,P08173
+Ziprasidone,P08908
+Ziprasidone,P08912
+Ziprasidone,P21728
+Ziprasidone,P28566
+Ziprasidone,P35368
+Ziprasidone,P46098
+Ziprasidone,P35348
+Ziprasidone,P28222
+Ziprasidone,P11229
+Ziprasidone,P34969
+Ziprasidone,P35462
+Ziprasidone,P28335
+Ziprasidone,P18825
+Ziprasidone,P50406
+Ziprasidone,P08172
+Oxacillin,Q7CRA4
+Oxacillin,Q8XJ01
+Oxacillin,D6R448
+Oxacillin,Q75Y35
+Oxacillin,Q8DR59
+Oxacillin,Q16348
+Oxacillin,P0A3M6
+Oxacillin,Q8DNB6
+Oxacillin,P46059
+Gabapentin,P54289
+Gabapentin,Q00975
+Gabapentin,Q8TCU5
+Gabapentin,O60391
+Gabapentin,P30542
+Gabapentin,Q14957
+Gabapentin,Q13224
+Gabapentin,Q05586
+Gabapentin,Q12879
+Gabapentin,O15399
+Gabapentin,Q9NY47
+Esomeprazole,P20648
+Trospium,P11229
+Tamoxifen,P41743
+Tamoxifen,P05129
+Tamoxifen,Q02156
+Tamoxifen,P05771
+Tamoxifen,Q92731
+Tamoxifen,Q15125
+Tamoxifen,Q05513
+Tamoxifen,P17252
+Tamoxifen,Q05655
+Tamoxifen,Q04759
+Tamoxifen,P03372
+Gonadorelin,P30968
+Gonadorelin,Q96P88
+Demecarium,P06276
+Demecarium,P22303
+Lamivudine,Q05486
+Lamivudine,Q72547
+Sulfamerazine,P0AC13
+Furosemide,P00918
+Furosemide,Q13621
+Apomorphine,P08913
+Apomorphine,P21917
+Apomorphine,P28221
+Apomorphine,P21918
+Apomorphine,P14416
+Apomorphine,P28223
+Apomorphine,P18089
+Apomorphine,P08908
+Apomorphine,P21728
+Apomorphine,P28222
+Apomorphine,P35462
+Apomorphine,Q9NYX4
+Apomorphine,P28335
+Apomorphine,P41595
+Apomorphine,P18825
+Methylprednisolone,P04150
+Sulfinpyrazone,P33527
+Sulfinpyrazone,Q92887
+Norfloxacin,P43700
+Norfloxacin,P43702
+Norfloxacin,P11388
+Vitamin C,O14832
+Vitamin C,Q32P28
+Vitamin C,Q6N063
+Vitamin C,Q9NXG6
+Vitamin C,Q8IVL6
+Vitamin C,Q54873
+Vitamin C,P09848
+Vitamin C,Q9UHI7
+Vitamin C,P19021
+Vitamin C,Q8IVL5
+Vitamin C,O60568
+Vitamin C,O75936
+Vitamin C,P13674
+Vitamin C,Q9GZT9
+Vitamin C,Q9H6Z9
+Vitamin C,Q6NS38
+Vitamin C,P24300
+Vitamin C,Q96KS0
+Vitamin C,Q02809
+Vitamin C,Q9BY66
+Vitamin C,O00469
+Vitamin C,Q9NVH6
+Vitamin C,Q8N543
+Vitamin C,P09172
+Vitamin C,Q96Q83
+Zoledronic acid,O95749
+Zoledronic acid,P14324
+Paricalcitol,P11473
+Procaterol,P07550
+Alprenolol,P08588
+Alprenolol,P08908
+Alprenolol,P07550
+Diclofenamide,P00915
+Diclofenamide,P00918
+Diclofenamide,P43166
+Diclofenamide,P22748
+Finafloxacin,P43700
+Finafloxacin,P43702
+Finafloxacin,P11388
+Bupivacaine,Q9Y5Y9
+Bupivacaine,P34995
+Spectinomycin,P0A7S3
+Ethopropazine,Q8TCU5
+Ethopropazine,P11229
+Ethopropazine,P08172
+Levetiracetam,Q00975
+Levetiracetam,Q7L0J3
+Alogliptin,P27487
+Doxorubicin,P11388
+Cinchocaine,Q9Y5Y9
+Cinchocaine,Q14524
+Cinchocaine,P62158
+Amyl Nitrite,P16066
+Estriol,Q92731
+Estriol,P03372
+Thiothixene,P14416
+Thiothixene,P28223
+Thiothixene,P21728
+Tesamorelin,Q02643
+Buclizine,P35367
+Buclizine,P11229
+Dimetindene,P35367
+Dimetindene,P08172
+Cidofovir,P08546
+Clomipramine,P28223
+Clomipramine,P31645
+Clomipramine,P09211
+Clomipramine,P28335
+Clomipramine,P41595
+Clomipramine,P23975
+Fenoprofen,P23219
+Fenoprofen,P35354
+Glycopyrronium,P20309
+Glycopyrronium,P11229
+Glycopyrronium,P08172
+Ergotamine,P08913
+Ergotamine,P28221
+Ergotamine,P21918
+Ergotamine,P14416
+Ergotamine,P28223
+Ergotamine,P18089
+Ergotamine,P25100
+Ergotamine,P08908
+Ergotamine,P21728
+Ergotamine,P35368
+Ergotamine,P35348
+Ergotamine,P28222
+Ergotamine,P30939
+Ergotamine,P28335
+Ergotamine,P23975
+Halofantrine,Q12809
+Halofantrine,P46925
+Dalfopristin,P50870
+Frovatriptan,P28221
+Frovatriptan,P28222
+Sulfacetamide,P53848
+Sulfacetamide,P0AC13
+Sulfacetamide,P0C002
+Disulfiram,P05091
+Disulfiram,P09172
+Alprazolam,P47869
+Alprazolam,P78334
+Alprazolam,P18505
+Alprazolam,P14867
+Alprazolam,O00591
+Alprazolam,P47870
+Alprazolam,O14764
+Alprazolam,Q8N1C3
+Alprazolam,P31644
+Alprazolam,P34903
+Alprazolam,P28472
+Alprazolam,Q99928
+Alprazolam,P48169
+Alprazolam,Q16445
+Alprazolam,Q9UN88
+Alprazolam,P18507
+Didanosine,P00491
+Didanosine,Q72547
+Dobutamine,P08588
+Dobutamine,P07550
+Testolactone,P11511
+Methyclothiazide,P00915
+Methyclothiazide,P00918
+Methyclothiazide,Q13621
+Methyclothiazide,P22748
+Nilvadipine,P54289
+Nilvadipine,Q13698
+Nilvadipine,Q08289
+Nilvadipine,Q8IZS8
+Nilvadipine,Q01668
+Nilvadipine,Q13936
+Primaquine,P16083
+Primaquine,P08729
+Doxepin,P20309
+Doxepin,P08913
+Doxepin,P35367
+Doxepin,Q12809
+Doxepin,P14416
+Doxepin,P28223
+Doxepin,P18089
+Doxepin,P31645
+Doxepin,P08173
+Doxepin,P25021
+Doxepin,P25100
+Doxepin,P08908
+Doxepin,P08912
+Doxepin,P35368
+Doxepin,P35348
+Doxepin,P11229
+Doxepin,P28335
+Doxepin,P41595
+Doxepin,P18825
+Doxepin,P23975
+Doxepin,P50406
+Doxepin,P08172
+Doxepin,Q9H3N8
+Raltitrexed,P04818
+Raltitrexed,Q05932
+Piperazine,P28472
+Menthol,O75762
+Menthol,P41145
+Menthol,Q7Z2W7
+Menthol,Q8NET8
+Nedocromil,Q9Y271
+Nedocromil,Q9NS75
+Nedocromil,Q13258
+Nedocromil,P21462
+Nedocromil,P07900
+Cilazapril,P12821
+Diethylpropion,Q01959
+Diethylpropion,P23975
+Alizapride,P14416
+Lumacaftor,P13569
+Cycrimine,P11229
+Cefonicid,P24228
+Cefonicid,P02919
+Cefonicid,P0AD68
+Cefonicid,P0AD65
+Cefonicid,P02918
+Nitroprusside,P16066
+Bromocriptine,P08913
+Bromocriptine,P21917
+Bromocriptine,P28221
+Bromocriptine,P21918
+Bromocriptine,P14416
+Bromocriptine,P28223
+Bromocriptine,P18089
+Bromocriptine,P25100
+Bromocriptine,P08908
+Bromocriptine,P21728
+Bromocriptine,P35368
+Bromocriptine,P35348
+Bromocriptine,P28222
+Bromocriptine,P34969
+Bromocriptine,P35462
+Bromocriptine,P28335
+Bromocriptine,P41595
+Bromocriptine,P18825
+Avanafil,O76074
+Dapagliflozin,P31639
+Tretinoin,P00352
+Tretinoin,P13631
+Tretinoin,P49788
+Tretinoin,P48443
+Tretinoin,Q8NFJ5
+Tretinoin,O94788
+Tretinoin,P51843
+Tretinoin,P28702
+Vincristine,P68366
+Vincristine,P07437
+L-Carnitine,P47989
+L-Carnitine,P50416
+L-Carnitine,Q9H015
+L-Carnitine,P05164
+L-Carnitine,Q8N8R3
+L-Carnitine,P43155
+L-Carnitine,P23786
+L-Carnitine,P23141
+L-Carnitine,Q9UKG9
+L-Carnitine,O76082
+L-Carnitine,O43772
+Valsartan,P30556
+Flurbiprofen,P23219
+Flurbiprofen,P35354
+Allylestrenol,P06401
+Allylestrenol,P03372
+Erythromycin,P02768
+Erythromycin,Q12809
+Erythromycin,O43193
+Clarithromycin,Q12809
+Clarithromycin,Q9Y6L6
+Clarithromycin,Q9NPD5
+Clarithromycin,P0A7J6
+Rescinnamine,P12821
+Docetaxel,P11137
+Docetaxel,O75469
+Docetaxel,P27816
+Docetaxel,P10415
+Docetaxel,P10636
+Docetaxel,Q9H4B7
+Ingenol Mebutate,P17252
+Ingenol Mebutate,Q05655
+Methoxamine,P25100
+Methoxamine,P35368
+Methoxamine,P35348
+Nafarelin,P30968
+Nafarelin,Q96P88
+Tenoxicam,P23219
+Tenoxicam,P35354
+Phenprocoumon,Q9BQB6
+Dyphylline,P29274
+Dyphylline,Q13946
+Dyphylline,Q9NP56
+Dyphylline,Q08499
+Dyphylline,Q08493
+Dyphylline,P27815
+Dyphylline,P30542
+Dyphylline,Q07343
+Ivermectin,P28472
+Ivermectin,O75311
+Acamprosate,P47869
+Acamprosate,P78334
+Acamprosate,Q8TCU5
+Acamprosate,P18505
+Acamprosate,P14867
+Acamprosate,P41594
+Acamprosate,O00591
+Acamprosate,O60391
+Acamprosate,P47870
+Acamprosate,Q14957
+Acamprosate,Q13224
+Acamprosate,O14764
+Acamprosate,Q8N1C3
+Acamprosate,Q05586
+Acamprosate,P31644
+Acamprosate,P34903
+Acamprosate,Q12879
+Acamprosate,P28472
+Acamprosate,Q99928
+Acamprosate,O15399
+Acamprosate,P48169
+Acamprosate,Q16445
+Acamprosate,Q9UN88
+Acamprosate,P18507
+Fluticasone furoate,P04150
+Aminocaproic Acid,P00747
+Aminocaproic Acid,P00750
+Aminocaproic Acid,P08519
+Florbetaben (18F),P05067
+Ethinyl Estradiol,O75469
+Ethinyl Estradiol,P03372
+Captopril,P14780
+Captopril,P12821
+Captopril,P09960
+Captopril,P08253
+Halazepam,P47869
+Halazepam,P78334
+Halazepam,P28476
+Halazepam,P18505
+Halazepam,P14867
+Halazepam,O00591
+Halazepam,P47870
+Halazepam,O14764
+Halazepam,Q8N1C3
+Halazepam,P31644
+Halazepam,P34903
+Halazepam,A8MPY1
+Halazepam,P28472
+Halazepam,Q99928
+Halazepam,P48169
+Halazepam,Q16445
+Halazepam,Q9UN88
+Halazepam,P24046
+Halazepam,P18507
+Debrisoquin,P23975
+Gatifloxacin,Q59961
+Gatifloxacin,P0A4L9
+Gatifloxacin,P72525
+Gatifloxacin,P72524
+Esmolol,P08588
+Pindolol,P08588
+Pindolol,P08908
+Pindolol,P28222
+Pindolol,P07550
+Alprostadil,P34995
+Alprostadil,P43116
+Cefuroxime,Q8XJ01
+Cyclothiazide,P00915
+Cyclothiazide,P00918
+Cyclothiazide,P54710
+Cyclothiazide,P22748
+Dacarbazine,P52209
+Dacarbazine,Q14181
+Aminoglutethimide,P11511
+Aminoglutethimide,P05108
+Lactose,Q7Z4J2
+Lactose,P26514
+Lactose,P00722
+Lactose,Q02834
+Lactose,P01552
+Lactose,Q7SI98
+Lactose,P04958
+Lactose,Q9NZD2
+Lidocaine,P00533
+Lidocaine,Q9Y5Y9
+Lidocaine,Q14524
+Lidocaine,Q15858
+Chlorpropamide,Q09428
+Fusidic Acid,P62580
+Fusidic Acid,P00484
+Fusidic Acid,P13551
+Aprepitant,P25103
+Prazosin,P08913
+Prazosin,Q12809
+Prazosin,P18089
+Prazosin,P25100
+Prazosin,P35368
+Prazosin,P35348
+Prazosin,Q9H252
+Prazosin,Q9NS40
+Hexachlorophene,O14521
+Hexachlorophene,P00367
+Hexachlorophene,P06149
+Vecuronium,Q15822
+Vorinostat,Q13547
+Vorinostat,Q9BY41
+Vorinostat,Q92769
+Vorinostat,O15379
+Vorinostat,O67135
+Vorinostat,Q9UBN7
+Solifenacin,P20309
+Solifenacin,P08173
+Solifenacin,P08912
+Solifenacin,P11229
+Solifenacin,P08172
+Loratadine,P35367
+Pseudoephedrine,P01100
+Pseudoephedrine,P08913
+Pseudoephedrine,P18850
+Pseudoephedrine,P08588
+Pseudoephedrine,P31645
+Pseudoephedrine,P18846
+Pseudoephedrine,O95644
+Pseudoephedrine,Q8WYK2
+Pseudoephedrine,P35348
+Pseudoephedrine,P18847
+Pseudoephedrine,P01375
+Pseudoephedrine,P07550
+Pseudoephedrine,P15336
+Pseudoephedrine,Q01959
+Pseudoephedrine,Q9Y2D1
+Pseudoephedrine,P23975
+Pseudoephedrine,P18848
+Pseudoephedrine,P05412
+Pseudoephedrine,P60568
+Pseudoephedrine,P17544
+Eliglustat,Q16739
+Penciclovir,P04293
+Penciclovir,P06478
+Sulfaphenazole,P0AC13
+Pentobarbital,P47869
+Pentobarbital,P78334
+Pentobarbital,P36544
+Pentobarbital,Q8TCU5
+Pentobarbital,P18505
+Pentobarbital,P43681
+Pentobarbital,P14867
+Pentobarbital,O00591
+Pentobarbital,O60391
+Pentobarbital,P47870
+Pentobarbital,P42262
+Pentobarbital,Q13002
+Pentobarbital,Q14957
+Pentobarbital,Q13224
+Pentobarbital,O14764
+Pentobarbital,Q8N1C3
+Pentobarbital,Q05586
+Pentobarbital,P31644
+Pentobarbital,P34903
+Pentobarbital,Q12879
+Pentobarbital,P28472
+Pentobarbital,Q99928
+Pentobarbital,O15399
+Pentobarbital,P48169
+Pentobarbital,Q16445
+Pentobarbital,Q9UN88
+Pentobarbital,P18507
+Isocarboxazid,P21397
+Isocarboxazid,P27338
+Hydroxocobalamin,Q99707
+Hydroxocobalamin,Q9BXJ7
+Hydroxocobalamin,Q9Y4U1
+Hydroxocobalamin,Q96EY8
+Hydroxocobalamin,Q8IVH4
+Hydroxocobalamin,P22033
+Hydroxocobalamin,Q9UBK8
+Hydroxocobalamin,P20061
+Hydroxocobalamin,O60494
+Pramipexole,P08913
+Pramipexole,P21917
+Pramipexole,P28221
+Pramipexole,P21918
+Pramipexole,P14416
+Pramipexole,P28223
+Pramipexole,P18089
+Pramipexole,P08908
+Pramipexole,P21728
+Pramipexole,P28222
+Pramipexole,P35462
+Pramipexole,P28335
+Pramipexole,P41595
+Pramipexole,P18825
+Rifampicin,P02768
+Rifampicin,O75469
+Rifampicin,O94956
+Rifampicin,P0A8V2
+Rifampicin,Q16850
+Rifampicin,Q9Y6L6
+Rifampicin,Q9NPD5
+Rifampicin,P46721
+Rifampicin,P0A8T7
+Clonazepam,P47869
+Clonazepam,P78334
+Clonazepam,P18505
+Clonazepam,P14867
+Clonazepam,O00591
+Clonazepam,P47870
+Clonazepam,P30536
+Clonazepam,O14764
+Clonazepam,Q8N1C3
+Clonazepam,P31644
+Clonazepam,P34903
+Clonazepam,P28472
+Clonazepam,Q99928
+Clonazepam,P48169
+Clonazepam,Q16445
+Clonazepam,Q9UN88
+Clonazepam,P18507
+Codeine,P35372
+Codeine,P41145
+Codeine,P41143
+Milnacipran,Q8TCU5
+Milnacipran,P31645
+Milnacipran,O60391
+Milnacipran,Q14957
+Milnacipran,Q13224
+Milnacipran,Q05586
+Milnacipran,Q12879
+Milnacipran,O15399
+Milnacipran,P23975
+Methsuximide,O43497
+Imatinib,P07333
+Imatinib,P04629
+Imatinib,A9UF02
+Imatinib,P09619
+Imatinib,Q08345
+Imatinib,O43519
+Imatinib,P16234
+Imatinib,P00519
+Imatinib,P10721
+Trandolapril,P12821
+Carbachol,P11229
+Carbachol,Q15822
+Carbachol,P08172
+Indacaterol,P07550
+Arbekacin,P0A7S3
+Triamterene,P37088
+Triamterene,P51172
+Triamterene,P51168
+Triamterene,P51170
+Beclomethasone dipropionate,P04150
+Vardenafil,Q13956
+Vardenafil,O76074
+Vardenafil,P18545
+Amrubicin,P11388
+Pravastatin,P04035
+Triazolam,P47869
+Triazolam,P78334
+Triazolam,P28476
+Triazolam,P18505
+Triazolam,P14867
+Triazolam,O00591
+Triazolam,P47870
+Triazolam,P30536
+Triazolam,O14764
+Triazolam,Q8N1C3
+Triazolam,P31644
+Triazolam,P34903
+Triazolam,A8MPY1
+Triazolam,P28472
+Triazolam,Q99928
+Triazolam,P48169
+Triazolam,Q16445
+Triazolam,Q9UN88
+Triazolam,P24046
+Triazolam,P18507
+Paromomycin,Q5SHN7
+Desvenlafaxine,P31645
+Desvenlafaxine,P23975
+Tetrahydrofolic acid,O95954
+Tetrahydrofolic acid,P13995
+Tetrahydrofolic acid,P31939
+Tetrahydrofolic acid,Q96DP5
+Tetrahydrofolic acid,P48728
+Tetrahydrofolic acid,Q99707
+Tetrahydrofolic acid,Q53ET4
+Tetrahydrofolic acid,P11586
+Tetrahydrofolic acid,P42898
+Tetrahydrofolic acid,P34897
+Tetrahydrofolic acid,O75891
+Tetrahydrofolic acid,P34896
+Macitentan,P24530
+Macitentan,P25101
+Rolitetracycline,P0A7X3
+Phenindione,Q9BQB6
+Torasemide,Q13621
+Rufinamide,P41594
+Rufinamide,Q15858
+Pyruvic acid,O15403
+Pyruvic acid,P11177
+Pyruvic acid,O15375
+Pyruvic acid,P14618
+Pyruvic acid,P80404
+Pyruvic acid,P53985
+Pyruvic acid,O95907
+Pyruvic acid,P36021
+Pyruvic acid,O15374
+Pyruvic acid,P11498
+Pyruvic acid,Q9BYV1
+Pyruvic acid,O60669
+Pyruvic acid,P30613
+Pyruvic acid,O15427
+Calcidiol,P11473
+L-Isoleucine,Q9NSE4
+L-Isoleucine,P54687
+L-Isoleucine,P41252
+L-Isoleucine,P45954
+L-Isoleucine,O15382
+Naloxone,P35372
+Naloxone,P41145
+Naloxone,O00206
+Naloxone,P16220
+Naloxone,P03372
+Naloxone,P41143
+Thiamylal,P14867
+Thiamylal,Q14654
+Thiamylal,Q15842
+Molindone,P14416
+Molindone,P28223
+Molindone,P08908
+Molindone,P11229
+Parecoxib,P35354
+Parecoxib,P02788
+Betazole,P25021
+Apraclonidine,P08913
+Apraclonidine,P18089
+Apraclonidine,P35348
+Ginkgo biloba,P23415
+Ginkgo biloba,P14867
+Ginkgo biloba,P47870
+Ginkgo biloba,P23975
+Ginkgo biloba,P14555
+Ginkgo biloba,P18507
+Echothiophate,P06276
+L-Threonine,Q8IYQ7
+L-Threonine,P26639
+L-Threonine,Q9BW92
+Orphenadrine,P35367
+Orphenadrine,Q8TCU5
+Orphenadrine,Q9Y5Y9
+Orphenadrine,O60391
+Orphenadrine,Q05586
+Orphenadrine,O15399
+Orphenadrine,P23975
+Granisetron,P46098
+Estrone sulfate,Q92731
+Estrone sulfate,P03372
+Halcinonide,Q99835
+Lorazepam,P47869
+Lorazepam,P78334
+Lorazepam,P18505
+Lorazepam,P14867
+Lorazepam,O00591
+Lorazepam,P47870
+Lorazepam,P30536
+Lorazepam,O14764
+Lorazepam,Q8N1C3
+Lorazepam,P31644
+Lorazepam,P34903
+Lorazepam,P28472
+Lorazepam,Q99928
+Lorazepam,P48169
+Lorazepam,Q16445
+Lorazepam,Q9UN88
+Lorazepam,P18507
+Irinotecan,Q969P6
+Irinotecan,P11387
+Remikiren,P00797
+Nitrofural,P61889
+Nitrofural,P06715
+Nitrofural,P77390
+Nitrofural,P07003
+Glucosamine,P14780
+Glucosamine,P01579
+Glucosamine,P01375
+Glucosamine,P33673
+Glucosamine,Q00653
+Betahistine,P35367
+Betahistine,Q9Y5N1
+Iloprost,P00750
+Iloprost,Q08499
+Iloprost,Q08493
+Iloprost,P27815
+Iloprost,Q07343
+Iloprost,P34995
+Iloprost,P43119
+Histamine Phosphate,P35367
+Histamine Phosphate,Q9Y5N1
+Histamine Phosphate,P25021
+Histamine Phosphate,Q9H3N8
+Chlorothiazide,P00915
+Chlorothiazide,P00918
+Chlorothiazide,P55017
+Chlorothiazide,P22748
+Nicotinamide,P00338
+Nicotinamide,P09874
+Nicotinamide,P11439
+Nicotinamide,Q9NXA8
+Nicotinamide,Q10588
+Testosterone Propionate,P10275
+Metronidazole,Q16850
+Metronidazole,P29166
+Metronidazole,O25608
+Roxithromycin,P08183
+Roxithromycin,P0A7J6
+Amisulpride,P14416
+Amisulpride,P28223
+Amisulpride,P34969
+Amisulpride,P35462
+Dorzolamide,P00915
+Dorzolamide,P00918
+Dorzolamide,P22748
+Suprofen,P23219
+Suprofen,P35354
+Lercanidipine,Q06432
+Diethylcarbamazine,P23219
+Diethylcarbamazine,P09917
+L-Cysteine,Q9BZV2
+L-Cysteine,P16455
+L-Cysteine,P49589
+L-Cysteine,P48637
+L-Cysteine,P48506
+L-Cysteine,Q9Y600
+L-Cysteine,P35520
+L-Cysteine,Q9Y697
+L-Cysteine,Q16857
+L-Cysteine,P48507
+L-Cysteine,Q9HA77
+L-Cysteine,P17174
+L-Cysteine,Q16878
+L-Cysteine,P32929
+Pregabalin,O00555
+Alclometasone,P04150
+Ondansetron,Q13639
+Ondansetron,P35372
+Ondansetron,P08908
+Ondansetron,P46098
+Ondansetron,P28222
+L-Methionine,Q99707
+L-Methionine,Q9H2M3
+L-Methionine,P50579
+L-Methionine,Q93088
+L-Methionine,Q9UBK8
+Toremifene,P03372
+Clofarabine,P09884
+Clofarabine,P23921
+Protriptyline,P31645
+Protriptyline,P23975
+Potassium Chloride,Q9H2X9
+Potassium Chloride,Q13621
+Potassium Chloride,Q9UP95
+Potassium Chloride,Q9UHW9
+Potassium Chloride,Q9Y666
+Potassium Chloride,P55011
+Carprofen,P23219
+Carprofen,P35354
+Demeclocycline,P0A7V8
+Demeclocycline,P0A7X3
+Pioglitazone,P37231
+Paroxetine,P20309
+Paroxetine,P28223
+Paroxetine,P31645
+Paroxetine,P08173
+Paroxetine,P08912
+Paroxetine,P11229
+Paroxetine,P23975
+Paroxetine,P08172
+Tenofovir alafenamide,Q72547
+Bacampicillin,Q8XJ01
+L-Aspartic Acid,P30520
+L-Aspartic Acid,Q96HD9
+L-Aspartic Acid,Q12797
+L-Aspartic Acid,P45381
+L-Aspartic Acid,P00505
+L-Aspartic Acid,Q7L266
+L-Aspartic Acid,P22234
+L-Aspartic Acid,Q03154
+L-Aspartic Acid,P08243
+L-Aspartic Acid,Q8N142
+L-Aspartic Acid,P61626
+L-Aspartic Acid,Q6PI48
+L-Aspartic Acid,Q2TU84
+L-Aspartic Acid,O75746
+L-Aspartic Acid,P43005
+L-Aspartic Acid,Q9UJS0
+L-Aspartic Acid,P27708
+L-Aspartic Acid,Q5T6L4
+L-Aspartic Acid,P17174
+L-Aspartic Acid,P14868
+L-Aspartic Acid,P07998
+L-Aspartic Acid,P00966
+Arsenic trioxide,Q16881
+Arsenic trioxide,P28482
+Arsenic trioxide,P27361
+Arsenic trioxide,P24385
+Arsenic trioxide,O14920
+Arsenic trioxide,P31749
+Arsenic trioxide,P05412
+Lomefloxacin,P43700
+Lomefloxacin,P43702
+Lomefloxacin,P11388
+Eprosartan,P30556
+Azatadine,P35367
+Atorvastatin,P27487
+Atorvastatin,P35869
+Atorvastatin,P04035
+Lisdexamfetamine,P35368
+Lisdexamfetamine,Q01959
+Amphetamine,P08913
+Amphetamine,P21397
+Amphetamine,P14416
+Amphetamine,P13945
+Amphetamine,Q16568
+Amphetamine,P08588
+Amphetamine,Q99870
+Amphetamine,P18089
+Amphetamine,P31645
+Amphetamine,P25100
+Amphetamine,P35368
+Amphetamine,P35348
+Amphetamine,P27338
+Amphetamine,P07550
+Amphetamine,Q96RJ0
+Amphetamine,Q01959
+Amphetamine,Q05940
+Amphetamine,P18825
+Amphetamine,P23975
+Ambenonium,P22303
+Methylphenobarbital,P47869
+Methylphenobarbital,P36544
+Methylphenobarbital,P43681
+Methylphenobarbital,P14867
+Methylphenobarbital,P42262
+Methylphenobarbital,Q13002
+Methylphenobarbital,P31644
+Methylphenobarbital,P34903
+Methylphenobarbital,P48169
+Methylphenobarbital,Q16445
+Pancuronium,P20309
+Pancuronium,Q15822
+Pancuronium,P08172
+Mitotane,P10109
+Mitotane,P15538
+Piperacillin,Q7CRA4
+Piperacillin,Q75Y35
+Piperacillin,P0A3M6
+Piperacillin,Q8DNB6
+Nafcillin,Q7CRA4
+Nafcillin,Q75Y35
+Nafcillin,Q8DR59
+Nafcillin,P0A3M6
+Nafcillin,Q8DNB6
+Enzalutamide,P10275
+Desonide,P04150
+Teniposide,P11388
+Clofedanol,P35367
+Lucanthone,P11387
+Lucanthone,P27695
+Lucanthone,P11388
+Nandrolone decanoate,P10275
+Flupentixol,P14416
+Flupentixol,P28223
+Flupentixol,P21728
+Flupentixol,P35348
+Flupentixol,P11229
+Hetacillin,Q7CRA4
+Hetacillin,Q75Y35
+Hetacillin,Q8DR59
+Hetacillin,P0A3M6
+Hetacillin,Q8DNB6
+Oxaprozin,P23219
+Oxaprozin,P35354
+Paramethasone,P04150
+Levonorgestrel,P06401
+Levonorgestrel,P10275
+Levonorgestrel,P18405
+Levonorgestrel,P03372
+Metipranolol,P08588
+Metipranolol,P07550
+Olaparib,Q9Y6F1
+Olaparib,P09874
+Olaparib,Q9UGN5
+Flibanserin,P21917
+Flibanserin,P28223
+Flibanserin,P08908
+Capecitabine,P04818
+Cyanocobalamin,Q99707
+Cyanocobalamin,Q9Y4U1
+Cyanocobalamin,P42898
+Cyanocobalamin,Q8IVH4
+Cyanocobalamin,P22033
+Cyanocobalamin,Q9UBK8
+Ramipril,P12821
+Isosorbide Mononitrate,P33402
+Tavaborole,Q9HGT2
+Tripelennamine,P35367
+Meropenem,P24228
+Histrelin,P30968
+Alimemazine,P35367
+Regorafenib,P42685
+Regorafenib,P11362
+Regorafenib,Q16832
+Regorafenib,P04629
+Regorafenib,Q15759
+Regorafenib,P09619
+Regorafenib,P35968
+Regorafenib,P17948
+Regorafenib,Q02763
+Regorafenib,P16234
+Regorafenib,P04049
+Regorafenib,P07949
+Regorafenib,P35916
+Regorafenib,P15056
+Regorafenib,P21802
+Regorafenib,P00519
+Regorafenib,P10721
+Regorafenib,P29317
+Risedronate,P14324
+Stavudine,Q72547
+Secobarbital,P47869
+Secobarbital,P36544
+Secobarbital,Q8TCU5
+Secobarbital,P43681
+Secobarbital,P14867
+Secobarbital,O60391
+Secobarbital,P42262
+Secobarbital,Q13002
+Secobarbital,Q14957
+Secobarbital,Q13224
+Secobarbital,Q05586
+Secobarbital,P31644
+Secobarbital,P34903
+Secobarbital,Q12879
+Secobarbital,O15399
+Secobarbital,P48169
+Secobarbital,Q16445
+Fluocinolone Acetonide,P04150
+Ceftriaxone,Q9NSA0
+Ceftriaxone,P0A3M6
+Ceftriaxone,P46059
+Ceftriaxone,Q8TCC7
+Ceftriaxone,Q4U2R8
+Roflumilast,Q08499
+Roflumilast,Q08493
+Roflumilast,P27815
+Roflumilast,Q07343
+Amantadine,Q8TCU5
+Amantadine,P14416
+Amantadine,P21430
+Dapiprazole,P25100
+Dapiprazole,P35368
+Dapiprazole,P35348
+Gemcitabine,P04818
+Gemcitabine,P30085
+Gemcitabine,P23921
+Amrinone,Q14432
+Amrinone,P01375
+Amrinone,Q07343
+Chenodeoxycholic acid,Q96RI1
+Epinephrine,P08913
+Epinephrine,P00439
+Epinephrine,P13945
+Epinephrine,P08588
+Epinephrine,P18089
+Epinephrine,P25100
+Epinephrine,P35368
+Epinephrine,P35348
+Epinephrine,P01375
+Epinephrine,P07550
+Epinephrine,P18825
+Hydrocortamate,P04150
+Diphemanil Methylsulfate,P20309
+Trimetazidine,P09110
+Dofetilide,Q12809
+Dofetilide,O95069
+Dofetilide,Q14500
+Sitaxentan,P24530
+Sitaxentan,P25101
+Isopropamide,P20309
+Isopropamide,P08173
+Zaleplon,P14867
+Zaleplon,P30536
+Dimenhydrinate,P35367
+Pentolinium,Q9GZZ6
+Pentolinium,P30926
+Pentolinium,P32297
+Guanethidine,P23975
+Amobarbital,P47869
+Amobarbital,P36544
+Amobarbital,P43681
+Amobarbital,P14867
+Amobarbital,P42262
+Amobarbital,Q13002
+Amobarbital,P31644
+Amobarbital,P34903
+Amobarbital,P48169
+Amobarbital,Q16445
+Pivmecillinam,Q8XJ01
+Econazole,P10613
+Cinalukast,Q9Y271
+Cyclandelate,P54289
+Cyclandelate,P23141
+Betamethasone,P04150
+Benzocaine,Q9Y5Y9
+Bepridil,P54750
+Bepridil,Q01064
+Bepridil,O95180
+Bepridil,P05023
+Bepridil,P63316
+Bepridil,O00555
+Bepridil,P62158
+Bepridil,Q9NY47
+Bepridil,P51787
+Heptabarbital,P47869
+Heptabarbital,P36544
+Heptabarbital,P43681
+Heptabarbital,P14867
+Heptabarbital,P42262
+Heptabarbital,Q13002
+Heptabarbital,P31644
+Heptabarbital,P34903
+Heptabarbital,P48169
+Heptabarbital,Q16445
+Palonosetron,P46098
+Sulfadoxine,P13922
+Sulfadoxine,Q27738
+Methoxyflurane,P47869
+Methoxyflurane,Q09470
+Methoxyflurane,P78334
+Methoxyflurane,P23415
+Methoxyflurane,P18505
+Methoxyflurane,P14867
+Methoxyflurane,P42261
+Methoxyflurane,O00591
+Methoxyflurane,P47870
+Methoxyflurane,P98194
+Methoxyflurane,O14764
+Methoxyflurane,Q8N1C3
+Methoxyflurane,P31644
+Methoxyflurane,P34903
+Methoxyflurane,P30049
+Methoxyflurane,P28472
+Methoxyflurane,Q99928
+Methoxyflurane,P03886
+Methoxyflurane,P48169
+Methoxyflurane,Q16445
+Methoxyflurane,Q9UN88
+Methoxyflurane,P18507
+Cefamandole,Q70KI2
+Vapreotide,P30874
+Vapreotide,P35346
+Vapreotide,P25103
+Fluocinonide,P04150
+Fluocinonide,Q99835
+Tetryzoline,P35348
+Phenylpropanolamine,P08913
+Phenylpropanolamine,P08588
+Phenylpropanolamine,P21728
+Phenylpropanolamine,P35348
+Phenylpropanolamine,P07550
+Sulfapyridine,Q49184
+Gefitinib,P00533
+Bambuterol,P07550
+L-Ornithine,O95190
+L-Ornithine,P00480
+L-Ornithine,P04181
+L-Ornithine,P05089
+L-Ornithine,Q9Y619
+L-Ornithine,P54368
+L-Ornithine,P52569
+L-Ornithine,O43246
+L-Ornithine,P50440
+L-Ornithine,Q8WY07
+L-Ornithine,P78540
+L-Ornithine,Q9UMX2
+L-Ornithine,Q9BXI2
+L-Ornithine,P30825
+Salbutamol,P08588
+Salbutamol,P07550
+Tamsulosin,P25100
+Tamsulosin,P35368
+Tamsulosin,P35348
+Formoterol,P07550
+Theobromine,P29274
+Theobromine,P30542
+Theobromine,Q07343
+Indecainide,Q14524
+Butethal,P47869
+Butethal,P36544
+Butethal,P43681
+Butethal,P14867
+Butethal,P42262
+Butethal,Q13002
+Butethal,P31644
+Butethal,P34903
+Butethal,P48169
+Butethal,Q16445
+Pasireotide,P32745
+Pasireotide,P30874
+Pasireotide,P30872
+Pasireotide,P35346
+Lymecycline,P0A7V8
+Lymecycline,P0A7X3
+Umeclidinium,P20309
+Umeclidinium,P08173
+Umeclidinium,P08912
+Umeclidinium,P11229
+Umeclidinium,P08172
+N-Acetyl-D-glucosamine,P54802
+N-Acetyl-D-glucosamine,O60512
+N-Acetyl-D-glucosamine,P15291
+N-Acetyl-D-glucosamine,Q9UJ70
+N-Acetyl-D-glucosamine,P51606
+N-Acetyl-D-glucosamine,O60909
+N-Acetyl-D-glucosamine,Q9UK23
+N-Acetyl-D-glucosamine,O60513
+Cytarabine,P06746
+Armodafinil,Q01959
+Degarelix,P30968
+Cinoxacin,P43700
+Phendimetrazine,P35368
+Phendimetrazine,P35348
+Phendimetrazine,P23975
+Theophylline,P29274
+Theophylline,O76074
+Theophylline,Q14432
+Theophylline,Q92769
+Theophylline,P27815
+Theophylline,P30542
+Theophylline,P29275
+Theophylline,Q07343
+Imipenem,P42971
+Imipenem,P02919
+Imipenem,P0AD65
+Imipenem,P00807
+Imipenem,P02918
+Isoprenaline,P27986
+Isoprenaline,P13945
+Isoprenaline,P08588
+Isoprenaline,Q92569
+Isoprenaline,Q4ZHU6
+Isoprenaline,P28482
+Isoprenaline,O00459
+Isoprenaline,P07550
+Ibutilide,P54289
+Ibutilide,Q12809
+Ibutilide,Q06432
+Ibutilide,Q14654
+Ibutilide,Q9Y257
+Ibutilide,Q02641
+Ibutilide,Q13936
+Ibutilide,O00180
+Ibutilide,Q9H252
+Ibutilide,Q9NS40
+Oseltamivir,Q99519
+Oseltamivir,Q9Y3R4
+Oseltamivir,P11485
+Oseltamivir,P23141
+Methadyl Acetate,P35372
+Vindesine,Q9H4B7
+Miconazole,Q92952
+Miconazole,Q12809
+Miconazole,Q9H2S1
+Miconazole,Q12791
+Miconazole,P35228
+Miconazole,Q9UGI6
+Miconazole,P10613
+Miconazole,Q9NPA1
+Miconazole,P29474
+Miconazole,Q9Y691
+Miconazole,Q86W47
+Miconazole,Q16558
+Miconazole,O15554
+Miconazole,Q9H252
+Miconazole,Q9NS40
+Mefenamic acid,P23219
+Mefenamic acid,P35354
+Chlorthalidone,Q13621
+Fluvastatin,P04035
+Tris,P06653
+Tris,P0AFB1
+Tris,P15692
+Tris,P07585
+Tris,Q8WVQ1
+Tris,P01556
+Tris,P44160
+Tris,P12996
+Tris,Q96FI4
+Tris,P17707
+Tris,Q8UCK6
+Tris,Q9X0N8
+Tris,Q52369
+Etoricoxib,P35354
+Varenicline,P36544
+Varenicline,P43681
+Varenicline,Q15825
+Varenicline,P32297
+Prochlorperazine,P14416
+Fluphenazine,P14416
+Fluphenazine,P21728
+Fluphenazine,P62158
+Topiramate,P47869
+Topiramate,P78334
+Topiramate,P00918
+Topiramate,P18505
+Topiramate,P14867
+Topiramate,P39086
+Topiramate,O00591
+Topiramate,P47870
+Topiramate,O14764
+Topiramate,Q8N1C3
+Topiramate,P31644
+Topiramate,P34903
+Topiramate,P35498
+Topiramate,P22748
+Topiramate,P28472
+Topiramate,Q99928
+Topiramate,P48169
+Topiramate,Q16445
+Topiramate,Q9UN88
+Topiramate,P18507
+Olanzapine,P47869
+Olanzapine,P47898
+Olanzapine,P20309
+Olanzapine,P78334
+Olanzapine,P08913
+Olanzapine,P21917
+Olanzapine,P35367
+Olanzapine,P28221
+Olanzapine,P18505
+Olanzapine,P14867
+Olanzapine,P21918
+Olanzapine,P14416
+Olanzapine,P13945
+Olanzapine,P28223
+Olanzapine,P08588
+Olanzapine,P18089
+Olanzapine,O00591
+Olanzapine,P47870
+Olanzapine,P08173
+Olanzapine,P25021
+Olanzapine,P08908
+Olanzapine,P08912
+Olanzapine,P21728
+Olanzapine,P28566
+Olanzapine,P35368
+Olanzapine,P46098
+Olanzapine,P35348
+Olanzapine,P28222
+Olanzapine,O14764
+Olanzapine,Q8N1C3
+Olanzapine,P31644
+Olanzapine,P34903
+Olanzapine,P07550
+Olanzapine,P28472
+Olanzapine,P11229
+Olanzapine,Q99928
+Olanzapine,P34969
+Olanzapine,P48169
+Olanzapine,Q16445
+Olanzapine,P35462
+Olanzapine,P28335
+Olanzapine,P41595
+Olanzapine,P18825
+Olanzapine,P50406
+Olanzapine,P08172
+Olanzapine,Q9UN88
+Olanzapine,Q9H3N8
+Olanzapine,P18507
+Alverine,P08908
+Udenafil,O76074
+Fenofibrate,O43923
+Fenofibrate,Q07869
+Edrophonium,P06276
+Edrophonium,P22303
+Probenecid,Q9NSA0
+Probenecid,Q8TCC7
+Probenecid,Q4U2R8
+Probenecid,Q96RD7
+Oxazepam,P47869
+Oxazepam,P78334
+Oxazepam,P28476
+Oxazepam,P18505
+Oxazepam,P14867
+Oxazepam,O00591
+Oxazepam,P47870
+Oxazepam,O14764
+Oxazepam,Q8N1C3
+Oxazepam,P31644
+Oxazepam,P34903
+Oxazepam,A8MPY1
+Oxazepam,P28472
+Oxazepam,Q99928
+Oxazepam,P48169
+Oxazepam,Q16445
+Oxazepam,Q9UN88
+Oxazepam,P24046
+Oxazepam,P18507
+Bosentan,P24530
+Bosentan,P25101
+Dihydrotachysterol,P11473
+Aluminium,P02787
+Aluminium,P05023
+Quinupristin,P61177
+Quinupristin,P0A7J6
+Zonisamide,Q8N1Q1
+Zonisamide,Q9UI33
+Zonisamide,P00915
+Zonisamide,P00918
+Zonisamide,O43570
+Zonisamide,Q99250
+Zonisamide,P35218
+Zonisamide,O60939
+Zonisamide,P07451
+Zonisamide,Q14524
+Zonisamide,P43166
+Zonisamide,O95180
+Zonisamide,P27338
+Zonisamide,O43497
+Zonisamide,P35498
+Zonisamide,P22748
+Zonisamide,Q9ULX7
+Zonisamide,O75493
+Zonisamide,Q9NY46
+Zonisamide,Q9Y2D0
+Zonisamide,Q16790
+Zonisamide,Q9NY72
+Zonisamide,Q9P0X4
+Zonisamide,Q15858
+Zonisamide,Q9NS85
+Zonisamide,P35499
+Zonisamide,Q8IWT1
+Zonisamide,Q07699
+Zonisamide,P23280
+Zonisamide,P35219
+Naftifine,Q14534
+Yohimbine,P48048
+Yohimbine,P08913
+Yohimbine,P28221
+Yohimbine,Q99712
+Yohimbine,P14416
+Yohimbine,P28223
+Yohimbine,P18089
+Yohimbine,P08908
+Yohimbine,P78508
+Yohimbine,P28222
+Yohimbine,Q14654
+Yohimbine,P35462
+Yohimbine,P28335
+Yohimbine,P41595
+Yohimbine,P18825
+Yohimbine,Q15842
+Yohimbine,Q9UNX9
+Yohimbine,Q14500
+Isoniazid,P08684
+Isoniazid,P0A546
+Isoniazid,P0A5Y6
+Isoniazid,P05177
+Isoniazid,P33261
+Isoniazid,Q08129
+Isoniazid,P10632
+Tolcapone,P21964
+Guanfacine,P08913
+Guanfacine,P18089
+Hexobarbital,P47869
+Hexobarbital,P36544
+Hexobarbital,P43681
+Hexobarbital,P14867
+Hexobarbital,P42262
+Hexobarbital,Q13002
+Hexobarbital,P31644
+Hexobarbital,P34903
+Hexobarbital,P48169
+Hexobarbital,Q16445
+Mexiletine,Q14524
+Mexiletine,P35869
+Hyaluronic acid,Q8WWQ8
+Hyaluronic acid,O14594
+Hyaluronic acid,Q96S86
+Hyaluronic acid,P10915
+Hyaluronic acid,Q86UW8
+Hyaluronic acid,Q6UX15
+Hyaluronic acid,P16070
+Hyaluronic acid,P98066
+Hyaluronic acid,P05362
+Hyaluronic acid,Q14520
+Hyaluronic acid,P13611
+Hyaluronic acid,Q9BZV3
+Hyaluronic acid,Q5JVS0
+Hyaluronic acid,Q07021
+Hyaluronic acid,O75330
+Tetracycline,C9EH48
+Tetracycline,P0A7W7
+Tetracycline,P0A7U3
+Tetracycline,P0AG59
+Tetracycline,P02359
+Tetracycline,P0A7V3
+Tetracycline,P04156
+Tetracycline,Q9UM07
+Romidepsin,Q13547
+Romidepsin,Q92769
+Romidepsin,Q9UBN7
+Romidepsin,P56524
+Minaprine,P21397
+Minaprine,P14416
+Minaprine,P28223
+Minaprine,P31645
+Minaprine,P21728
+Minaprine,P22303
+Minaprine,P11229
+Minaprine,P28335
+Minaprine,P41595
+Trifluridine,P04818
+Dezocine,P35372
+Dezocine,P41145
+Imipramine,P20309
+Imipramine,P35367
+Imipramine,Q12809
+Imipramine,P21918
+Imipramine,P14416
+Imipramine,P28223
+Imipramine,P31645
+Imipramine,P08173
+Imipramine,P25100
+Imipramine,P08908
+Imipramine,P08912
+Imipramine,P21728
+Imipramine,P35368
+Imipramine,P35348
+Imipramine,Q9UK17
+Imipramine,Q9NZV8
+Imipramine,Q01959
+Imipramine,P11229
+Imipramine,P34969
+Imipramine,P28335
+Imipramine,P23975
+Imipramine,P50406
+Imipramine,P08172
+Atropine,P20309
+Atropine,P08173
+Atropine,P08912
+Atropine,P11229
+Atropine,P08172
+Cyproterone acetate,P10275
+Gliclazide,P15692
+Gliclazide,Q09428
+Rifabutin,P0A7Z4
+Rifabutin,P0A8V2
+Rifabutin,P14625
+Rifabutin,P07900
+Rifabutin,P0A8T7
+Acetohydroxamic Acid,P18314
+Acetohydroxamic Acid,P39900
+Obeticholic acid,Q96RI1
+Iron Dextran,P02794
+Iron Dextran,P68871
+Iron Dextran,P69905
+Iron Dextran,P02792
+Dolasetron,P46098
+Conjugated Equine Estrogens,P03372
+Fulvestrant,P03372
+L-Lysine,P52569
+L-Lysine,O43246
+L-Lysine,Q8WY07
+L-Lysine,Q15046
+L-Lysine,P30825
+Trametinib,Q02750
+Trametinib,P36507
+Methyldopa,P08913
+Methyldopa,P20711
+Felodipine,P54750
+Felodipine,P54289
+Felodipine,P02585
+Felodipine,Q13698
+Felodipine,Q01064
+Felodipine,Q08289
+Felodipine,O95180
+Felodipine,P63316
+Felodipine,Q01668
+Felodipine,P62158
+Felodipine,Q9NY47
+Felodipine,Q13936
+Felodipine,P08235
+Treprostinil,Q9H244
+Treprostinil,Q03181
+Treprostinil,P43119
+Atazanavir,Q72874
+Arbutamine,P13945
+Arbutamine,P08588
+Arbutamine,P07550
+Propylhexedrine,Q96RJ0
+Propylhexedrine,Q05940
+Apremilast,P01579
+Apremilast,Q08499
+Apremilast,P27815
+Apremilast,P01375
+Apremilast,Q07343
+Apremilast,P29474
+Apremilast,P60568
+Phylloquinone,P02818
+Phylloquinone,P38435
+Remoxipride,P21917
+Remoxipride,P14416
+Remoxipride,P28223
+Remoxipride,Q99720
+Remoxipride,P35462
+Vancomycin,P02768
+Vancomycin,P96558
+Vancomycin,Q06241
+Naphazoline,P08913
+Naphazoline,P35348
+Rifaximin,O75469
+Rifaximin,P0A8V2
+Domperidone,P14416
+Domperidone,P35462
+Levallorphan,P35372
+Hydralazine,P13674
+Hydralazine,Q16853
+Diphenidol,P20309
+Diphenidol,P11229
+Diphenidol,P08172
+Propantheline,P11229
+L-Tyrosine,P17735
+L-Tyrosine,P54577
+L-Tyrosine,P07101
+L-Tyrosine,Q9Y2Z4
+Pentagastrin,P32239
+L-Cystine,Q9UPY5
+L-Cystine,O60931
+L-Cystine,P82251
+L-Cystine,Q07837
+Clodronate,P12235
+Clodronate,P05141
+Clodronate,P12236
+Tasosartan,P50052
+Tasosartan,P30556
+Pipecuronium,P20309
+Pipecuronium,Q15822
+Pipecuronium,P08172
+Cefaclor,Q8XJ01
+Cefaclor,Q75Y35
+Cefazolin,P02919
+Cefazolin,P27169
+Cefazolin,P76577
+Cefazolin,P0AD68
+Cefazolin,P0AD65
+Cefazolin,P02918
+Clotrimazole,P10613
+Clotrimazole,O15554
+Saquinavir,Q72874
+Oxtriphylline,P29274
+Oxtriphylline,Q14432
+Oxtriphylline,Q92769
+Oxtriphylline,P27815
+Oxtriphylline,P30542
+Cefditoren,Q8XJ01
+Cefditoren,P0A3M6
+Omacetaxine mepesuccinate,P20276
+Omacetaxine mepesuccinate,P39023
+Lactic Acid,Q9RW27
+Lactic Acid,P09546
+Methyprylon,P47869
+Methyprylon,P78334
+Methyprylon,P18505
+Methyprylon,P14867
+Methyprylon,O00591
+Methyprylon,P47870
+Methyprylon,O14764
+Methyprylon,Q8N1C3
+Methyprylon,P31644
+Methyprylon,P34903
+Methyprylon,P28472
+Methyprylon,Q99928
+Methyprylon,P48169
+Methyprylon,Q16445
+Methyprylon,Q9UN88
+Methyprylon,P18507
+Efinaconazole,P50859
+Methylergometrine,P21728
+Ulipristal,P06401
+Ulipristal,P10275
+Ulipristal,P04150
+Tioconazole,P10613
+Tioconazole,Q16850
+Clofibrate,Q07869
+Halothane,P47869
+Halothane,P48549
+Halothane,P78334
+Halothane,P23415
+Halothane,Q9NPC2
+Halothane,Q8TCU5
+Halothane,P18505
+Halothane,P14867
+Halothane,P08100
+Halothane,O00591
+Halothane,O60391
+Halothane,P47870
+Halothane,Q12791
+Halothane,P98194
+Halothane,Q6W5P4
+Halothane,P59768
+Halothane,O14764
+Halothane,Q8N1C3
+Halothane,P31644
+Halothane,P34903
+Halothane,Q12879
+Halothane,P30049
+Halothane,P28472
+Halothane,Q99928
+Halothane,P03886
+Halothane,P48169
+Halothane,Q16445
+Halothane,O15554
+Halothane,O14649
+Halothane,P48051
+Halothane,Q9UN88
+Halothane,P18507
+Oxytetracycline,P0A7V8
+Oxytetracycline,P0A7X3
+Carfilzomib,P28062
+Carfilzomib,P20618
+Carfilzomib,P28074
+Carfilzomib,P28065
+Carfilzomib,P40306
+Carfilzomib,P49721
+Mestranol,P03372
+Gentamicin,P0A7S3
+Gentamicin,P98164
+Gentamicin,P00374
+Gentamicin,P08164
+Ethylmorphine,P35372
+Teriflunomide,Q02127
+Ciprofloxacin,P43700
+Ciprofloxacin,P05653
+Ciprofloxacin,Q12809
+Ciprofloxacin,P0AES4
+Ciprofloxacin,P43702
+Ciprofloxacin,B4YQT9
+Ciprofloxacin,P20831
+Ciprofloxacin,P0C1U9
+Ciprofloxacin,Q59192
+Ciprofloxacin,C3T8E2
+Ciprofloxacin,P11388
+Olmesartan,P30556
+Gadopentetate dimeglumine,P52209
+Nefazodone,P08913
+Nefazodone,P28223
+Nefazodone,P31645
+Nefazodone,P08908
+Nefazodone,P35368
+Nefazodone,P35348
+Nefazodone,Q01959
+Nefazodone,P28335
+Nefazodone,P23975
+Ticagrelor,Q9H244
+Nabumetone,P23219
+Nabumetone,P35354
+Ponatinib,P11362
+Ponatinib,P11274
+Ponatinib,P35968
+Ponatinib,P12931
+Ponatinib,P06239
+Ponatinib,P22607
+Ponatinib,Q02763
+Ponatinib,P07948
+Ponatinib,P16234
+Ponatinib,P36888
+Ponatinib,P07949
+Ponatinib,P22455
+Ponatinib,P21802
+Ponatinib,P00519
+Ponatinib,P10721
+Bedaquiline,P63691
+Ledipasvir,Q5L478
+Dexmedetomidine,P08913
+Tirofiban,P08514
+Tirofiban,P05106
+Hesperetin,P35610
+Hesperetin,O75908
+Hesperetin,P55157
+Cimetidine,P25021
+Desloratadine,P35367
+Oxyphencyclimine,P20309
+Oxyphencyclimine,P11229
+Oxyphencyclimine,P08172
+Tigecycline,P0A7U3
+Tigecycline,P0AG59
+Tigecycline,P0A7S3
+Tigecycline,P0A7X3
+Tigecycline,P0A7S9
+Urea C-13,Q8KT33
+Budesonide,P04150
+Fenoterol,P13945
+Fenoterol,P08588
+Fenoterol,P07550
+Telbivudine,Q05486
+L-Valine,P05166
+L-Valine,P54687
+L-Valine,P26640
+Adinazolam,P47869
+Adinazolam,P78334
+Adinazolam,P28476
+Adinazolam,P18505
+Adinazolam,P14867
+Adinazolam,O00591
+Adinazolam,P47870
+Adinazolam,O14764
+Adinazolam,Q8N1C3
+Adinazolam,P31644
+Adinazolam,P34903
+Adinazolam,A8MPY1
+Adinazolam,P28472
+Adinazolam,Q99928
+Adinazolam,P24046
+Adinazolam,P18507
+Sonidegib,Q99835
+Probucol,P23141
+Probucol,O95477
+L-Arginine,P35228
+L-Arginine,Q96A70
+L-Arginine,O43246
+L-Arginine,P29474
+L-Arginine,P04424
+L-Arginine,Q8WY07
+L-Arginine,P78540
+L-Arginine,P30825
+L-Arginine,P00966
+Dasatinib,P09619
+Dasatinib,P12931
+Dasatinib,P06239
+Dasatinib,P07947
+Dasatinib,P06241
+Dasatinib,P42684
+Dasatinib,P00519
+Dasatinib,P10721
+Dasatinib,P51692
+Dasatinib,P29317
+L-Phenylalanine,P00439
+L-Phenylalanine,Q9NSD9
+L-Phenylalanine,Q9Y285
+L-Phenylalanine,O95363
+L-Phenylalanine,Q9UHI5
+L-Phenylalanine,P17735
+L-Phenylalanine,P07101
+Gamma Hydroxybutyric Acid,P18505
+Gamma Hydroxybutyric Acid,Q9HAB3
+Porfimer,P01130
+Porfimer,P12314
+Estramustine,P11137
+Estramustine,Q92731
+Estramustine,P78559
+Estramustine,P03372
+Gluconic Acid,P22073
+Quetiapine,P20309
+Quetiapine,P08913
+Quetiapine,P21917
+Quetiapine,P35367
+Quetiapine,P28221
+Quetiapine,P21918
+Quetiapine,P14416
+Quetiapine,P28223
+Quetiapine,P18089
+Quetiapine,P08173
+Quetiapine,P25100
+Quetiapine,P08908
+Quetiapine,P08912
+Quetiapine,P21728
+Quetiapine,P28566
+Quetiapine,P35368
+Quetiapine,P46098
+Quetiapine,P35348
+Quetiapine,P28222
+Quetiapine,P11229
+Quetiapine,P34969
+Quetiapine,P35462
+Quetiapine,P28335
+Quetiapine,P18825
+Quetiapine,P50406
+Quetiapine,P08172
+Prasterone,P07445
+Prasterone,P47869
+Prasterone,P78334
+Prasterone,O75469
+Prasterone,P10275
+Prasterone,Q8TCU5
+Prasterone,P18505
+Prasterone,P14867
+Prasterone,O00591
+Prasterone,P14061
+Prasterone,O60391
+Prasterone,P47870
+Prasterone,Q07869
+Prasterone,Q92731
+Prasterone,Q14957
+Prasterone,Q13224
+Prasterone,Q06520
+Prasterone,O14764
+Prasterone,Q8N1C3
+Prasterone,Q05586
+Prasterone,P31644
+Prasterone,P34903
+Prasterone,Q12879
+Prasterone,P28472
+Prasterone,Q99928
+Prasterone,O15399
+Prasterone,Q99720
+Prasterone,P22637
+Prasterone,P48169
+Prasterone,Q16445
+Prasterone,O00204
+Prasterone,Q14994
+Prasterone,Q9UN88
+Prasterone,P03372
+Prasterone,P18507
+Cilastatin,P16444
+Eflornithine,P11926
+Oxyphenonium,P11229
+Pamidronate,P14324
+Idoxuridine,Q9QNF7
+Pyridoxine,O00764
+Cefoperazone,P24228
+Cefoperazone,Q9X6W0
+Cefoperazone,P0AEB2
+Cefoperazone,P02919
+Cefoperazone,P0AD68
+Cefoperazone,P0AD65
+Cefoperazone,P08506
+Cefoperazone,P02918
+Cefoperazone,Q07806
+Ecabet,P18314
+Ecabet,Q8NFA2
+Brompheniramine,P20309
+Brompheniramine,P35367
+Brompheniramine,P08173
+Brompheniramine,P08912
+Brompheniramine,P11229
+Brompheniramine,P08172
+Citalopram,P35367
+Citalopram,P31645
+Citalopram,P35348
+Citalopram,P11229
+Chlorcyclizine,P35367
+Eplerenone,P08235
+Lapatinib,P00533
+Lapatinib,P04626
+Ketazolam,P78334
+Ketazolam,P18505
+Ketazolam,P14867
+Ketazolam,P30536
+Ketazolam,O14764
+Ketazolam,Q8N1C3
+Azathioprine,P00492
+Terbinafine,Q14534
+Enoximone,Q14432
+Isotretinoin,P10276
+Ketoprofen,P23219
+Ketoprofen,P25024
+Ketoprofen,P35354
+Tetracosactide,Q01718
+Linaclotide,P25092
+Malathion,P06276
+Metformin,Q9Y478
+Alfacalcidol,P11473
+Alfacalcidol,O15528
+Roxatidine acetate,P25021
+Formaldehyde,P15555
+Meticillin,Q7CRA4
+Meticillin,Q75Y35
+Meticillin,Q8DR59
+Meticillin,P0A3M6
+Meticillin,Q8DNB6
+Meticillin,Q53707
+Difluprednate,P04150
+Nelarabine,P09884
+Medroxyprogesterone acetate,P06401
+Medroxyprogesterone acetate,P03372
+Carteolol,P08588
+Carteolol,P07550
+Lanreotide,P30874
+Lanreotide,P35346
+Sulfamethoxazole,P0AC13
+Sulfamethoxazole,P08192
+Raloxifene,Q92731
+Raloxifene,P03372
+Tacrolimus,P62942
+Flumethasone,P04150
+Retapamulin,Q9A1X4
+Norepinephrine,P08913
+Norepinephrine,P00439
+Norepinephrine,P13945
+Norepinephrine,P08588
+Norepinephrine,P18089
+Norepinephrine,P25100
+Norepinephrine,P35368
+Norepinephrine,P35348
+Norepinephrine,P07550
+Norepinephrine,Q05940
+Norepinephrine,P54219
+Norepinephrine,P18825
+Ceforanide,Q70KI2
+Doxylamine,P35367
+Doxylamine,P11229
+Modafinil,P35368
+Modafinil,Q01959
+Acetazolamide,P00915
+Acetazolamide,P00918
+Acetazolamide,P07451
+Acetazolamide,P43166
+Acetazolamide,P22748
+Acetazolamide,Q9ULX7
+Acetazolamide,P29972
+Riociguat,P33402
+Zolpidem,P47869
+Zolpidem,P14867
+Zolpidem,P34903
+Neostigmine,P22303
+Medrysone,P04150
+Rosoxacin,P0AES6
+Rosoxacin,P0AFI2
+Isoflurophate,P06276
+Isoflurophate,P22303
+Bivalirudin,P00734
+Ritonavir,Q72874
+Fentanyl,P35372
+Fentanyl,P41145
+Fentanyl,P41143
+Irbesartan,P30556
+Irbesartan,P05412
+Ketobemidone,Q8TCU5
+Ketobemidone,P35372
+Ketobemidone,O60391
+Ketobemidone,P41145
+Ketobemidone,Q14957
+Ketobemidone,Q13224
+Ketobemidone,Q05586
+Ketobemidone,Q12879
+Ketobemidone,O15399
+Ketobemidone,P41143
+Naloxegol,P35372
+Minoxidil,P48048
+Minoxidil,P23219
+Clozapine,P20309
+Clozapine,P08913
+Clozapine,P21917
+Clozapine,P35367
+Clozapine,P28221
+Clozapine,P14416
+Clozapine,P28223
+Clozapine,P18089
+Clozapine,P08173
+Clozapine,P08908
+Clozapine,P08912
+Clozapine,P21728
+Clozapine,P28566
+Clozapine,P35368
+Clozapine,P46098
+Clozapine,P35348
+Clozapine,P28222
+Clozapine,P11229
+Clozapine,P34969
+Clozapine,P35462
+Clozapine,Q9NYX4
+Clozapine,P28335
+Clozapine,P18825
+Clozapine,P50406
+Clozapine,P08172
+Clozapine,Q9H3N8
+Benzylpenicillin,Q2FGH1
+Benzylpenicillin,Q16348
+Benzylpenicillin,P62593
+Benzylpenicillin,P46059
+Benzylpenicillin,Q8TCC7
+Fludrocortisone,P10275
+Fludrocortisone,P04150
+Fludrocortisone,P08235
+Streptozocin,Q89ZI2
+Streptozocin,P11168
+Saxagliptin,P27487
+Etoposide,Q02880
+Etoposide,P11388
+Axitinib,P35968
+Axitinib,P17948
+Axitinib,P35916
+L-Tryptophan,Q9UGM6
+L-Tryptophan,P23381
+L-Tryptophan,P00953
+Aclidinium,P20309
+Aclidinium,P08173
+Aclidinium,P08912
+Aclidinium,P11229
+Aclidinium,P08172
+Clocortolone,P04150
+Luliconazole,P10613
+Fencamfamine,Q01959
+Levocetirizine,P35367
+Cefpiramide,Q9X6W0
+Cefpiramide,P02919
+Cefpiramide,P0AD68
+Cefpiramide,C1KC03
+Cefpiramide,P08506
+Cefpiramide,P02918
+Cefpiramide,Q07806
+Pilocarpine,P20309
+Pilocarpine,P11229
+Pilocarpine,P08172
+Pentostatin,P00813
+Urea,P00918
+Urea,P0ABQ4
+Urea,P35222
+Urea,P05089
+Urea,P09592
+Urea,Q8XB74
+Cinacalcet,P41180
+Alitretinoin,P19793
+Alitretinoin,P13631
+Alitretinoin,P48443
+Alitretinoin,P10826
+Alitretinoin,P10276
+Alitretinoin,P28702
+Tobramycin,P0A7S3
+Mazindol,P31645
+Mazindol,Q01959
+Mazindol,P23975
+Bosutinib,Q13555
+Bosutinib,P11274
+Bosutinib,Q02750
+Bosutinib,P12931
+Bosutinib,P24941
+Bosutinib,P07948
+Bosutinib,P36507
+Bosutinib,P08631
+Bosutinib,P00519
+Bosutinib,Q9Y2U5
+Dydrogesterone,P06401
+Levonordefrin,P35348
+Levonordefrin,P23975
+Cinolazepam,P47869
+Cinolazepam,P78334
+Cinolazepam,P28476
+Cinolazepam,P18505
+Cinolazepam,P14867
+Cinolazepam,O00591
+Cinolazepam,P47870
+Cinolazepam,O14764
+Cinolazepam,Q8N1C3
+Cinolazepam,P31644
+Cinolazepam,P34903
+Cinolazepam,A8MPY1
+Cinolazepam,P28472
+Cinolazepam,Q99928
+Cinolazepam,P24046
+Cinolazepam,P18507
+Clorazepate,P47869
+Clorazepate,P78334
+Clorazepate,P18505
+Clorazepate,P14867
+Clorazepate,O00591
+Clorazepate,P47870
+Clorazepate,P30536
+Clorazepate,O14764
+Clorazepate,Q8N1C3
+Clorazepate,P31644
+Clorazepate,P34903
+Clorazepate,P28472
+Clorazepate,Q99928
+Clorazepate,P48169
+Clorazepate,Q16445
+Clorazepate,Q9UN88
+Clorazepate,P18507
+Tipranavir,Q72874
+Ethotoin,Q14524
+Doxacurium chloride,Q15822
+Doxacurium chloride,P08172
+Milrinone,Q14432
+Dalteparin,P16109
+Dalteparin,P01008
+Dalteparin,P15692
+Dalteparin,P10646
+Lomitapide,P55157
+Pentazocine,P35372
+Pentazocine,P41145
+Pentazocine,Q99720
+Hydroflumethiazide,P00915
+Hydroflumethiazide,P00918
+Hydroflumethiazide,O43570
+Hydroflumethiazide,Q13621
+Hydroflumethiazide,Q12791
+Hydroflumethiazide,P05023
+Hydroflumethiazide,P22748
+Hydroflumethiazide,Q16790
+L-Proline,P45877
+L-Proline,Q9UN76
+L-Proline,P07814
+L-Proline,O15460
+L-Proline,Q32P28
+L-Proline,O43272
+L-Proline,Q53H96
+L-Proline,P23284
+L-Proline,O94903
+L-Proline,Q8IVL6
+L-Proline,P30405
+L-Proline,Q8IVL5
+L-Proline,P13674
+L-Proline,P62937
+L-Proline,P32322
+L-Proline,Q96C36
+L-Proline,O43447
+L-Proline,Q7L3T8
+L-Proline,Q99884
+L-Proline,Q96EM0
+L-Proline,Q4W8W1
+L-Proline,Q13427
+Conivaptan,P30518
+Conivaptan,P37288
+Methimazole,P07202
+Baclofen,O75899
+Baclofen,Q9UBS5
+Ivacaftor,P13569
+Trilostane,P26439
+Trilostane,P14060
+Trilostane,Q92731
+Trilostane,P03372
+Ardeparin,P01008
+Ardeparin,P05546
+Valaciclovir,Q9QNF7
+Valaciclovir,P04293
+Sorbitol,P12070
+Sorbitol,P12851
+Sorbitol,P24300
+Sorbitol,P37330
+Propylthiouracil,P07202
+Butriptyline,P35367
+Butriptyline,P28223
+Butriptyline,P31645
+Doxercalciferol,P11473
+Mitiglinide,P37231
+Mitiglinide,Q09428
+Buprenorphine,P35372
+Buprenorphine,P41145
+Buprenorphine,P41143
+Cefotetan,Q75Y35
+Amoxicillin,Q8XJ01
+Cabazitaxel,P68366
+Cabazitaxel,Q9H4B7
+Tolmetin,P23219
+Tolmetin,P35354
+Fluorometholone,P04150
+Butalbital,P47869
+Butalbital,P78334
+Butalbital,P36544
+Butalbital,P18505
+Butalbital,P43681
+Butalbital,P14867
+Butalbital,O00591
+Butalbital,P47870
+Butalbital,P42262
+Butalbital,Q13002
+Butalbital,O14764
+Butalbital,Q8N1C3
+Butalbital,P31644
+Butalbital,P34903
+Butalbital,P28472
+Butalbital,Q99928
+Butalbital,P48169
+Butalbital,Q16445
+Butalbital,Q9UN88
+Butalbital,P18507
+Phosphatidyl serine,Q9UG56
+Phosphatidyl serine,Q9NXE4
+Phosphatidyl serine,Q9NY59
+Phosphatidyl serine,Q9BVG9
+Phosphatidyl serine,Q9Y2Q0
+Phosphatidyl serine,P48651
+Phosphatidyl serine,P49619
+Phosphatidyl serine,Q16760
+Phosphatidyl serine,P17252
+Phosphatidyl serine,Q8WTV0
+Fosfomycin,P0A749
+Empagliflozin,P31639
+Everolimus,P42345
+Alectinib,Q9UM73
+Diphenhydramine,P35367
+Diphenhydramine,P08172
+Naltrexone,Q5T1J1
+Naltrexone,P35372
+Naltrexone,P41145
+Naltrexone,P41143
+Dapsone,P0C0X2
+Dapsone,P0C0X1
+Trimethoprim,P04818
+Trimethoprim,P00374
+Prilocaine,Q14524
+Ethynodiol diacetate,P06401
+Ethynodiol diacetate,P03372
+Isoflurane,P47869
+Isoflurane,Q09470
+Isoflurane,P78334
+Isoflurane,P23415
+Isoflurane,P18505
+Isoflurane,P14867
+Isoflurane,P42261
+Isoflurane,O00591
+Isoflurane,P47870
+Isoflurane,P98194
+Isoflurane,O14764
+Isoflurane,Q8N1C3
+Isoflurane,P31644
+Isoflurane,P34903
+Isoflurane,P30049
+Isoflurane,P28472
+Isoflurane,Q99928
+Isoflurane,P62158
+Isoflurane,P48169
+Isoflurane,Q16445
+Isoflurane,Q9UN88
+Isoflurane,P18507
+Carglumic Acid,P31327
+Sodium Tetradecyl Sulfate,P04070
+Sodium Tetradecyl Sulfate,P07225
+Gemfibrozil,Q07869
+Venetoclax,P10415
+Levobupivacaine,Q9Y5Y9
+Cefadroxil,Q7CRA4
+Cefadroxil,Q75Y35
+Cefadroxil,Q8DR59
+Cefadroxil,P0A3M6
+Aminosalicylic Acid,P64143
+Aminosalicylic Acid,Q9NZK7
+Aminosalicylic Acid,P35354
+Aminosalicylic Acid,P09917
+Aminosalicylic Acid,O15111
+Rosuvastatin,P04035
+Sotalol,Q12809
+Sotalol,P08588
+Sotalol,P07550
+Regadenoson,P29274
+Metyrapone,P15538
+Metyrapone,P00183
+Cefapirin,Q8XJ01
+Levofloxacin,P43700
+Levofloxacin,P43702
+Levofloxacin,P11388
+Bupranolol,P13945
+Bupranolol,P08588
+Bupranolol,P07550
+Reboxetine,P23975
+Memantine,Q8TCU5
+Memantine,P14416
+Memantine,P46098
+Memantine,Q13224
+Memantine,Q693P7
+Memantine,Q05586
+Memantine,Q12879
+Remifentanil,P35372
+Remifentanil,P41145
+Remifentanil,P41143
+Betaxolol,P08588
+Betaxolol,P07550
+Afamelanotide,Q01726
+Lurasidone,P08913
+Lurasidone,P14416
+Lurasidone,P28223
+Lurasidone,P08908
+Lurasidone,P34969
+Lurasidone,P18825
+Glipizide,P37231
+Glipizide,Q09428
+Tolazoline,P08913
+Tolazoline,P35367
+Tolazoline,P18089
+Tolazoline,P25021
+Tolazoline,P35348
+Tolazoline,P18825
+Diflorasone,P04150
+L-Asparagine,Q7L266
+L-Asparagine,O43776
+L-Asparagine,Q96I59
+L-Asparagine,P08243
+L-Asparagine,Q99624
+L-Asparagine,Q15758
+Midodrine,P25100
+Midodrine,P35368
+Midodrine,P35348
+Ganirelix,P30968
+Cangrelor,Q9H244
+Ropinirole,P08913
+Ropinirole,P21917
+Ropinirole,P28221
+Ropinirole,P21918
+Ropinirole,P14416
+Ropinirole,P28223
+Ropinirole,P18089
+Ropinirole,P08908
+Ropinirole,P21728
+Ropinirole,P28222
+Ropinirole,P35462
+Ropinirole,P28335
+Ropinirole,P41595
+Ropinirole,P18825
+Biotin,P05166
+Biotin,P05165
+Biotin,O00763
+Biotin,Q96RQ3
+Biotin,P50747
+Biotin,P11498
+Biotin,Q9HCC0
+Biotin,Q13085
+Biotin,Q9Y289
+Tafluprost,P43088
+Glimepiride,P48048
+Glimepiride,Q14654
+Glimepiride,Q09428
+Oxitriptan,Q9RVD6
+L-Serine,P21549
+L-Serine,O15269
+L-Serine,P20132
+L-Serine,P35520
+L-Serine,Q9GZT4
+L-Serine,O15270
+L-Serine,P49591
+Nalbuphine,P35372
+Nalbuphine,P41145
+Nalbuphine,P41143
+Octreotide,P30874
+Octreotide,P30872
+Octreotide,P35346
+Ketoconazole,P10275
+Ketoconazole,P11511
+Ketoconazole,P10613
+Ketoconazole,P08686
+Ezogabine,O43525
+Ezogabine,O43526
+Ezogabine,Q9NR82
+Ezogabine,P56696
+Phenindamine,P35367
+Fluoxetine,P31645
+Doxazosin,Q12809
+Doxazosin,P25100
+Doxazosin,P35368
+Doxazosin,P35348
+Doxazosin,Q9H252
+Doxazosin,Q9NS40
+Nabilone,P21554
+Nabilone,P34972
+Amodiaquine,P50135
+Clonidine,P08913
+Clonidine,P18089
+Clonidine,P25100
+Clonidine,P35368
+Clonidine,P35348
+Clonidine,P18825
+Suramin,P00734
+Suramin,P23945
+Suramin,P21817
+Suramin,P41231
+Suramin,P68638
+Suramin,Q9NXA8
+Suramin,P14555
+Azithromycin,Q9UM07
+Azithromycin,P60725
+Azithromycin,P61177
+Cetrimonium,P0C5C2
+Cetrimonium,Q79FX6
+Methyltestosterone,P10275
+Fluspirilene,P14416
+Fluspirilene,P28223
+Fluspirilene,Q06432
+Labetalol,P08588
+Labetalol,P25100
+Labetalol,P35368
+Labetalol,P35348
+Labetalol,P07550
+Brexpiprazole,P14416
+Brexpiprazole,P28223
+Brexpiprazole,P08908
+Brexpiprazole,P35368
+Brexpiprazole,P18825
+Nifedipine,Q09470
+Nifedipine,P54289
+Nifedipine,Q13698
+Nifedipine,Q08289
+Nifedipine,O95180
+Nifedipine,Q01668
+Nifedipine,P62158
+Nifedipine,Q13936
+Naratriptan,P28221
+Naratriptan,P08908
+Naratriptan,P28222
+Naratriptan,P30939
+Trichlormethiazide,P00915
+Trichlormethiazide,P00918
+Trichlormethiazide,Q13621
+Trichlormethiazide,P05023
+Trichlormethiazide,P22748
+Minocycline,P14780
+Minocycline,P29466
+Minocycline,P15692
+Minocycline,P01584
+Minocycline,P0A7V8
+Minocycline,P42574
+Minocycline,P09917
+Minocycline,P0A7X3
+Minocycline,P99999
+Acrivastine,P35367
+Afatinib,P00533
+Afatinib,Q15303
+Afatinib,P04626
+Lomustine,Q9H169
+Vismodegib,Q99835
+Levorphanol,P35372
+Levorphanol,P41145
+Levorphanol,P41143
+Tubocurarine,P46098
+Tubocurarine,P22303
+Tubocurarine,Q15822
+Mezlocillin,Q8XJ01
+Mezlocillin,Q75Y35
+Mezlocillin,P0AD65
+Thioridazine,Q12809
+Thioridazine,P14416
+Thioridazine,P28223
+Thioridazine,P21728
+Thioridazine,P35368
+Thioridazine,P35348
+Ranolazine,Q14524
+Ranolazine,Q15858
+Adapalene,P19793
+Adapalene,P13631
+Adapalene,P48443
+Adapalene,P10826
+Adapalene,P10276
+Adapalene,P28702
+Dabigatran etexilate,P00734
+Desflurane,P47869
+Desflurane,Q09470
+Desflurane,P78334
+Desflurane,P23415
+Desflurane,P18505
+Desflurane,P14867
+Desflurane,P42261
+Desflurane,O00591
+Desflurane,P47870
+Desflurane,P98194
+Desflurane,O14764
+Desflurane,Q8N1C3
+Desflurane,P31644
+Desflurane,P34903
+Desflurane,P30049
+Desflurane,P28472
+Desflurane,Q99928
+Desflurane,P03886
+Desflurane,P48169
+Desflurane,Q16445
+Desflurane,Q9UN88
+Desflurane,P18507
+Atracurium besylate,Q15822
+Sertaconazole,P10613
+Protirelin,P34981
+Aciclovir,P04293
+Aciclovir,P09252
+Aciclovir,P03176
+Allopurinol,P47989
+Lipoic Acid,Q9Y234
+Lipoic Acid,O43766
+Lipoic Acid,Q9Y289
+Levomilnacipran,P31645
+Levomilnacipran,P23975
+Megestrol acetate,P06401
+Megestrol acetate,P04150
+Alpha-Linolenic Acid,Q8NER1
+Alpha-Linolenic Acid,P32418
+Alpha-Linolenic Acid,O60427
+Alpha-Linolenic Acid,Q9GZR5
+Alpha-Linolenic Acid,O95864
+Cefepime,Q9X6V3
+Cefepime,P0AD68
+Cefepime,P0AD65
+Cefepime,Q51504
+Aluminium monostearate,P63316
+Aluminium monostearate,Q9Y277
+Aluminium monostearate,P45880
+Aluminium monostearate,P21796
+Salsalate,P23219
+Salsalate,P35354
+Agomelatine,P48039
+Agomelatine,P49286
+Agomelatine,P28335
+Hydroxyurea,P23921
+Rilpivirine,O75469
+Rilpivirine,Q72547
+Nicergoline,P35348
+Oxymetholone,P10275
+Oxymetholone,P16860
+Amoxapine,P47869
+Amoxapine,P20309
+Amoxapine,P78334
+Amoxapine,P08913
+Amoxapine,P21917
+Amoxapine,P35367
+Amoxapine,P18505
+Amoxapine,P14867
+Amoxapine,P14416
+Amoxapine,P28223
+Amoxapine,P18089
+Amoxapine,P31645
+Amoxapine,O00591
+Amoxapine,P47870
+Amoxapine,P08173
+Amoxapine,P25100
+Amoxapine,P08908
+Amoxapine,P08912
+Amoxapine,P21728
+Amoxapine,P35368
+Amoxapine,P46098
+Amoxapine,P35348
+Amoxapine,P28222
+Amoxapine,O14764
+Amoxapine,Q8N1C3
+Amoxapine,P31644
+Amoxapine,P34903
+Amoxapine,Q01959
+Amoxapine,P28472
+Amoxapine,P11229
+Amoxapine,Q99928
+Amoxapine,P34969
+Amoxapine,P48169
+Amoxapine,Q16445
+Amoxapine,P35462
+Amoxapine,P28335
+Amoxapine,P41595
+Amoxapine,P18825
+Amoxapine,P23975
+Amoxapine,P50406
+Amoxapine,P08172
+Amoxapine,Q9UN88
+Amoxapine,Q9H3N8
+Amoxapine,P18507
+Chloroquine,P01375
+Chloroquine,Q8MU52
+Chloroquine,P09210
+Chloroquine,Q9NR96
+Felbamate,Q8TCU5
+Felbamate,Q13224
+Felbamate,Q12879
+Phenoxybenzamine,P08913
+Phenoxybenzamine,P18089
+Phenoxybenzamine,P25100
+Phenoxybenzamine,P35368
+Phenoxybenzamine,P35348
+Phenoxybenzamine,P07550
+Phenoxybenzamine,P62158
+Phenoxybenzamine,P18825
+Procarbazine,P21397
+Procarbazine,P27338
+Cyclizine,P35367
+Cyclizine,P49888
+Selexipag,P43119
+Ouabain,P05023
+Gemifloxacin,P43700
+Gemifloxacin,P43702
+Triamcinolone,P04150
+Alcaftadine,P35367
+Liotrix,P10827
+Liotrix,P10828
+Palbociclib,Q00534
+Palbociclib,P11802
+Dihydroergotamine,P08913
+Dihydroergotamine,P28221
+Dihydroergotamine,P28222
+Dihydroergotamine,P41595
+Piroxicam,P23219
+Piroxicam,P35354
+Cefotiam,Q8XJ01
+L-Histidine,P19113
+L-Histidine,Q99624
+L-Histidine,P12081
+L-Histidine,P42357
+Rimexolone,P04150
+Dinoprost Tromethamine,P43119
+Dinoprost Tromethamine,P43088
+Rasagiline,P27338
+Rasagiline,P10415
+Thioproperazine,P14416
+Thioproperazine,P28223
+Thioproperazine,P08908
+Thioproperazine,P21728
+Thioproperazine,P35368
+Thioproperazine,P35348
+Valproic Acid,Q9UQD0
+Valproic Acid,Q9UI33
+Valproic Acid,Q02218
+Valproic Acid,Q99250
+Valproic Acid,O60939
+Valproic Acid,Q9Y5Y9
+Valproic Acid,Q01118
+Valproic Acid,P80404
+Valproic Acid,Q14524
+Valproic Acid,Q92769
+Valproic Acid,P45954
+Valproic Acid,Q9UKV0
+Valproic Acid,P35498
+Valproic Acid,P51649
+Valproic Acid,Q9NY46
+Valproic Acid,Q9NY72
+Valproic Acid,Q15858
+Valproic Acid,P35499
+Valproic Acid,Q8IWT1
+Valproic Acid,Q07699
+Triclosan,P0AEK4
+Triclosan,Q6GI75
+Triclosan,P0A5Y6
+Triclosan,B0Q840
+Triclosan,O24990
+Nelfinavir,O90777
+Kanamycin,P0A7S3
+Rocuronium,P46098
+Rocuronium,Q15822
+Rocuronium,P08172
+Cloxacillin,Q8XJ01
+Cloxacillin,P0AEB3
+Cloxacillin,Q8DNB6
+Cloxacillin,P0A3M5
+Cloxacillin,P00811
+Cloxacillin,Q51504
+Edoxaban,P00742
+Ibudilast,Q14432
+Ibudilast,Q08499
+Ibudilast,Q08493
+Ibudilast,P27815
+Ibudilast,Q07343
+Tofacitinib,P52333
+Tofacitinib,O60674
+Tofacitinib,P23458
+Aminophylline,P0DMS8
+Aminophylline,Q14432
+Aminophylline,Q92769
+Aminophylline,P30542
+Simvastatin,P05107
+Simvastatin,P04035
+Guanadrel,P23975
+Bicalutamide,P10275
+Aprindine,Q14524
+Aprindine,P62158
+Hydroxyprogesterone caproate,P06401
+Mercaptopurine,P00492
+Mercaptopurine,P20839
+Mercaptopurine,P12268
+Mercaptopurine,Q06203
+Riluzole,Q9UPY5
+Riluzole,Q14524
+Rimonabant,P21554
+Ceruletide,P32238
+Etidronic acid,Q13332
+Etidronic acid,P38606
+Oxandrolone,P10275
+Losartan,P30556
+Erlotinib,O75469
+Erlotinib,P00533
+Clotiazepam,P47869
+Clotiazepam,P78334
+Clotiazepam,P28476
+Clotiazepam,P18505
+Clotiazepam,P14867
+Clotiazepam,O00591
+Clotiazepam,P47870
+Clotiazepam,O14764
+Clotiazepam,Q8N1C3
+Clotiazepam,P31644
+Clotiazepam,P34903
+Clotiazepam,A8MPY1
+Clotiazepam,P28472
+Clotiazepam,Q99928
+Clotiazepam,P24046
+Clotiazepam,P18507
+Encainide,Q14524
+Nitrofurantoin,P52647
+Nitrofurantoin,P17117
+Nitrofurantoin,P0A7R5
+Boceprevir,B0B3C9
+Bleomycin,P18858
+Bleomycin,P49916
+Etomidate,P47869
+Etomidate,P78334
+Etomidate,P18505
+Etomidate,P14867
+Etomidate,P18089
+Etomidate,O00591
+Etomidate,P47870
+Etomidate,O14764
+Etomidate,Q8N1C3
+Etomidate,P31644
+Etomidate,P34903
+Etomidate,P28472
+Etomidate,Q99928
+Etomidate,P48169
+Etomidate,Q16445
+Etomidate,Q9UN88
+Etomidate,P18507
+Terazosin,Q12809
+Terazosin,P25100
+Terazosin,P35368
+Terazosin,P35348
+Terazosin,Q9H252
+Terazosin,Q9NS40
+Ribavirin,P16502
+Ribavirin,P55263
+Ribavirin,P20839
+Ribavirin,P12268
+Ribavirin,P26676
+Ribavirin,P12823
+Ribavirin,P49902
+Ribavirin,P22413
+Ropivacaine,Q9Y5Y9
+Bretylium,P05023
+Enalapril,P12821
+Chloramphenicol,P24093
+Chloramphenicol,P08174
+Chloramphenicol,P0ADY7
+Fondaparinux sodium,P01008
+Fondaparinux sodium,P00742
+Dicloxacillin,Q7CRA4
+Dicloxacillin,Q75Y35
+Dicloxacillin,Q8DR59
+Dicloxacillin,B8DD61
+Dicloxacillin,P0A3M6
+Dicloxacillin,Q8DNB6
+Dicloxacillin,B8DCL9
+Goserelin,P22888
+Goserelin,P30968
+Levodopa,P21917
+Levodopa,P21918
+Levodopa,P14416
+Levodopa,P21728
+Levodopa,P35462
+Ergocalciferol,P11473
+Mepivacaine,Q9Y5Y9
+Tapentadol,P35372
+Tapentadol,P31645
+Tapentadol,P41145
+Tapentadol,P46098
+Tapentadol,P23975
+Tapentadol,P41143
+Heroin,P35372
+Heroin,P41145
+Heroin,P41143
+Pentoxifylline,P29274
+Pentoxifylline,O76074
+Pentoxifylline,P27815
+Pentoxifylline,P30542
+Pentoxifylline,Q07343
+Pentoxifylline,P21589
+Sulfasalazine,Q9UPY5
+Sulfasalazine,P23219
+Sulfasalazine,P37231
+Sulfasalazine,O14920
+Sulfasalazine,P35354
+Sulfasalazine,P09917
+Sulfasalazine,P24752
+Sulfasalazine,P04054
+Sulfasalazine,O15111
+Sulfasalazine,P24557
+Lofexidine,P08913
+Azidocillin,Q7CRA4
+Azidocillin,Q75Y35
+Azidocillin,Q8DR59
+Azidocillin,P0A3M6
+Azidocillin,Q8DNB6
+Sulfamethizole,P0AC13
+Chloroprocaine,Q8TCU5
+Chloroprocaine,Q9Y5Y9
+Chloroprocaine,P46098
+Chloroprocaine,Q01959
+Chloroprocaine,Q9GZZ6
+Bexarotene,P19793
+Bexarotene,P48443
+Bexarotene,P28702
+Moxifloxacin,P43700
+Moxifloxacin,P43702
+Moxifloxacin,P11388
+Bazedoxifene,P03372
+Chlorzoxazone,Q12791
+Danazol,P13500
+Danazol,P06401
+Danazol,P10275
+Danazol,P30968
+Danazol,Q96P88
+Danazol,P03372
+Pranlukast,Q9Y271
+Pranlukast,P12724
+Pranlukast,P05113
+Pranlukast,P19838
+Pranlukast,P01375
+Pranlukast,Q02817
+Almotriptan,P28221
+Almotriptan,P28222
+Propofol,P47869
+Propofol,P78334
+Propofol,Q99250
+Propofol,P18505
+Propofol,P14867
+Propofol,O00591
+Propofol,P47870
+Propofol,O14764
+Propofol,Q8N1C3
+Propofol,P31644
+Propofol,P34903
+Propofol,P28472
+Propofol,Q99928
+Propofol,P48169
+Propofol,Q16445
+Propofol,P35499
+Propofol,Q9UN88
+Propofol,P18507
+Cefpodoxime,P0AD68
+Guanabenz,P08913
+Guanabenz,P18089
+Papaverine,Q07343
+Papaverine,Q9Y233
+Acepromazine,P14416
+Acepromazine,P28223
+Acepromazine,P08908
+Acepromazine,P21728
+Acepromazine,P35368
+Acepromazine,P35348
+Sulfadiazine,Q27738
+Ombitasvir,Q5L478
+Ciclesonide,P04150
+Pemetrexed,P31939
+Pemetrexed,P04818
+Pemetrexed,P22102
+Pemetrexed,P00374
+Linagliptin,P27487
+Delavirdine,Q72547
+Clidinium,P11229
+Tetracaine,Q92736
+Tetracaine,P21817
+Zafirlukast,Q9Y271
+Vandetanib,P00533
+Vandetanib,P15692
+Vandetanib,Q02763
+Vandetanib,Q13882
+Cocaine,Q9UI33
+Cocaine,Q9Y5Y9
+Cocaine,P31645
+Cocaine,Q14524
+Cocaine,Q01959
+Cocaine,P11229
+Cocaine,P23975
+Cocaine,P08172
+Pirbuterol,P08588
+Pirbuterol,P07550
+Isosorbide Dinitrate,P16066
+Phenoxymethylpenicillin,P24228
+Phenoxymethylpenicillin,Q8XJ01
+Phenoxymethylpenicillin,Q53707
+Phenoxymethylpenicillin,P12256
+Phenoxymethylpenicillin,P46059
+Creatine,P48029
+Creatine,P12277
+Creatine,P12532
+Creatine,P06732
+Creatine,Q14353
+Creatine,P17540
+Osimertinib,P00533
+Promazine,P20309
+Promazine,P21917
+Promazine,P35367
+Promazine,P14416
+Promazine,P28223
+Promazine,P08173
+Promazine,P25100
+Promazine,P08912
+Promazine,P21728
+Promazine,P35368
+Promazine,P35348
+Promazine,P11229
+Promazine,P28335
+Promazine,P08172
+Ketamine,P20309
+Ketamine,P28221
+Ketamine,Q8TCU5
+Ketamine,P14416
+Ketamine,P35372
+Ketamine,P28223
+Ketamine,P08173
+Ketamine,P41145
+Ketamine,P08908
+Ketamine,P08912
+Ketamine,P28566
+Ketamine,P28222
+Ketamine,P30939
+Ketamine,P11229
+Ketamine,P25103
+Ketamine,P28335
+Ketamine,P41595
+Ketamine,P23975
+Ketamine,P08172
+Ketamine,P41143
+Crizotinib,P08581
+Crizotinib,Q9UM73
+Cefmenoxime,Q8XJ01
+Cefmenoxime,P0AD68
+Flecainide,Q14524
+Flecainide,P35499
+Equilin,P14061
+Temazepam,P47869
+Temazepam,P78334
+Temazepam,P28476
+Temazepam,P18505
+Temazepam,P14867
+Temazepam,O00591
+Temazepam,P47870
+Temazepam,P30536
+Temazepam,O14764
+Temazepam,Q8N1C3
+Temazepam,P31644
+Temazepam,P34903
+Temazepam,A8MPY1
+Temazepam,P28472
+Temazepam,Q99928
+Temazepam,P48169
+Temazepam,Q16445
+Temazepam,Q9UN88
+Temazepam,P24046
+Temazepam,P18507
+Dasabuvir,P87764
+Ceftolozane,Q9X6W0
+Ceftolozane,Q51504
+Amikacin,P0A7S3
+Tinzaparin,P01008
+Tinzaparin,P48061
+Tinzaparin,P13612
+Erythrityl Tetranitrate,P20594
+Erythrityl Tetranitrate,P16066
+Ergoloid mesylate,P47869
+Ergoloid mesylate,P78334
+Ergoloid mesylate,Q8WXA8
+Ergoloid mesylate,P08913
+Ergoloid mesylate,P28221
+Ergoloid mesylate,Q13639
+Ergoloid mesylate,Q70Z44
+Ergoloid mesylate,P18505
+Ergoloid mesylate,P14867
+Ergoloid mesylate,P14416
+Ergoloid mesylate,P28223
+Ergoloid mesylate,O94956
+Ergoloid mesylate,P18089
+Ergoloid mesylate,O00591
+Ergoloid mesylate,P47870
+Ergoloid mesylate,P25100
+Ergoloid mesylate,P08908
+Ergoloid mesylate,P21728
+Ergoloid mesylate,P28566
+Ergoloid mesylate,P35368
+Ergoloid mesylate,P46098
+Ergoloid mesylate,P35348
+Ergoloid mesylate,A5X5Y0
+Ergoloid mesylate,P28222
+Ergoloid mesylate,O14764
+Ergoloid mesylate,P30939
+Ergoloid mesylate,Q8N1C3
+Ergoloid mesylate,P31644
+Ergoloid mesylate,P34903
+Ergoloid mesylate,P28472
+Ergoloid mesylate,Q99928
+Ergoloid mesylate,P34969
+Ergoloid mesylate,P48169
+Ergoloid mesylate,O95264
+Ergoloid mesylate,Q16445
+Ergoloid mesylate,P28335
+Ergoloid mesylate,P41595
+Ergoloid mesylate,P18825
+Ergoloid mesylate,P50406
+Ergoloid mesylate,Q9UN88
+Ergoloid mesylate,P18507
+Phenacemide,P35498
+Foscarnet,P04293
+Foscarnet,P08546
+Sevoflurane,P47869
+Sevoflurane,Q09470
+Sevoflurane,P78334
+Sevoflurane,P23415
+Sevoflurane,P18505
+Sevoflurane,P14867
+Sevoflurane,P42261
+Sevoflurane,O00591
+Sevoflurane,P47870
+Sevoflurane,P98194
+Sevoflurane,O14764
+Sevoflurane,Q8N1C3
+Sevoflurane,P31644
+Sevoflurane,P34903
+Sevoflurane,P30049
+Sevoflurane,P28472
+Sevoflurane,Q99928
+Sevoflurane,P03886
+Sevoflurane,P48169
+Sevoflurane,Q16445
+Sevoflurane,Q9UN88
+Sevoflurane,P18507
+Marimastat,P03956
+Marimastat,P09238
+Marimastat,Q9ULZ9
+Marimastat,P22894
+Marimastat,P51512
+Marimastat,P14780
+Marimastat,P45452
+Marimastat,Q9H239
+Marimastat,P24347
+Marimastat,Q99542
+Marimastat,P08254
+Marimastat,Q8N119
+Marimastat,Q9Y5R2
+Marimastat,Q9H306
+Marimastat,P51511
+Marimastat,Q9NRE1
+Marimastat,P39900
+Marimastat,O75900
+Marimastat,O60882
+Marimastat,P50281
+Marimastat,P08253
+Marimastat,P09237
+Marimastat,Q9NPA2
+Loperamide,P01189
+Loperamide,P35372
+Loperamide,P41145
+Loperamide,O00555
+Loperamide,P62158
+Loperamide,P41143
+Sulfisoxazole,P0AC13
+Acetylcysteine,Q9UPY5
+Acetylcysteine,Q8TCU5
+Acetylcysteine,Q03154
+Acetylcysteine,P48637
+Acetylcysteine,Q13224
+Acetylcysteine,Q05586
+Acetylcysteine,Q12879
+Acetylcysteine,O14920
+Acetylcysteine,O15399
+Acetylcysteine,O15111
+Pargyline,P21397
+Pargyline,P27338
+Procyclidine,P20309
+Procyclidine,P08173
+Procyclidine,P11229
+Procyclidine,P08172
+Salmeterol,P07550
+Ruxolitinib,O60674
+Ruxolitinib,P23458
+Melatonin,P16083
+Melatonin,P27797
+Melatonin,P05164
+Melatonin,P48039
+Melatonin,P11678
+Melatonin,P49286
+Melatonin,P62158
+Melatonin,Q92753
+Melatonin,P46597
+Melatonin,P03372
+Adenosine,P29274
+Adenosine,P0DMS8
+Adenosine,P30542
+Adenosine,P29275
+Clomocycline,P0A7V8
+Clomocycline,P0A7X3
+Alendronic acid,Q13332
+Alendronic acid,P29074
+Alendronic acid,P23469
+Alendronic acid,P38606
+Alendronic acid,P14324
+Ezetimibe,Q9UHC9
+Ezetimibe,P35610
+Ezetimibe,P15144
+Bortezomib,P20618
+Bortezomib,P28074
+Acetaminophen,Q8NER1
+Acetaminophen,O00519
+Acetaminophen,P23219
+Acetaminophen,P35354
+Lindane,P23415
+Lindane,P18505
+Lindane,P48167
+Lindane,P23416
+Lindane,O75311
+Cetrorelix,P22888
+Cetrorelix,P30968
+Lesinurad,Q9NSA0
+Lesinurad,Q96S37
+Cromoglicic acid,P25815
+Cromoglicic acid,Q12791
+Brimonidine,P08913
+Brimonidine,P18089
+Brimonidine,P18825
+Hexylcaine,Q9Y5Y9
+Hexylcaine,Q14524
+Magnesium salicylate,P23219
+Magnesium salicylate,P35354
